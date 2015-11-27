@@ -1,0 +1,517 @@
+[ 2015-11-22T03:10:25+08:00 ] 127.0.0.1 /index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000502s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000600s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000670s ]
+ERR: 模板不存在:./Template/default/Index_index.html
+
+[ 2015-11-22T03:10:26+08:00 ] 127.0.0.1 /index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000262s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000113s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000231s ]
+ERR: 模板不存在:./Template/default/Index_index.html
+
+[ 2015-11-22T03:11:13+08:00 ] 127.0.0.1 /index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000208s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000081s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000192s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000046s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000142s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009569s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009660s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000262s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000343s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000870s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000956s ]
+
+[ 2015-11-22T03:11:14+08:00 ] 127.0.0.1 /index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000168s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000063s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000162s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000048s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000150s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.001866s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.001970s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000061s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000145s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000078s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000178s ]
+
+[ 2015-11-22T03:11:18+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000272s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000108s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000271s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000079s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000230s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.002809s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.002962s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000102s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000263s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000099s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000242s ]
+
+[ 2015-11-22T03:11:20+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000243s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000083s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000211s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000073s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000228s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.002746s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.002897s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000094s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000248s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000056s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000137s ]
+
+[ 2015-11-22T03:25:41+08:00 ] 127.0.0.1 /index.php/Home
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000180s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000074s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000165s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000046s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000145s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.002284s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.002384s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000064s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000141s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000071s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000151s ]
+
+[ 2015-11-22T03:25:46+08:00 ] 127.0.0.1 /index.php/Home/user
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000270s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000111s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000271s ]
+INFO: [ view_parse ] --START--
+NOTIC: [2] file_get_contents(./Template/default/user_header.html): failed to open stream: No such file or directory /var/www/Thinkshu/ThinkPHP/Library/Think/Template.class.php 第 696 行.
+NOTIC: [2] file_get_contents(./Template/default/user_menu.html): failed to open stream: No such file or directory /var/www/Thinkshu/ThinkPHP/Library/Think/Template.class.php 第 696 行.
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000172s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000276s ]
+NOTIC: [8] Use of undefined constant DEFAULT_THEME - assumed 'DEFAULT_THEME' /var/www/Thinkshu/Application/Runtime/Cache/Home/0c509b02bc487e24133c9284b8cb980e.php 第 10 行.
+NOTIC: [8] Use of undefined constant DEFAULT_THEME - assumed 'DEFAULT_THEME' /var/www/Thinkshu/Application/Runtime/Cache/Home/0c509b02bc487e24133c9284b8cb980e.php 第 11 行.
+NOTIC: [8] Use of undefined constant DEFAULT_THEME - assumed 'DEFAULT_THEME' /var/www/Thinkshu/Application/Runtime/Cache/Home/0c509b02bc487e24133c9284b8cb980e.php 第 14 行.
+NOTIC: [8] Use of undefined constant DEFAULT_THEME - assumed 'DEFAULT_THEME' /var/www/Thinkshu/Application/Runtime/Cache/Home/0c509b02bc487e24133c9284b8cb980e.php 第 25 行.
+NOTIC: [8] Use of undefined constant DEFAULT_THEME - assumed 'DEFAULT_THEME' /var/www/Thinkshu/Application/Runtime/Cache/Home/0c509b02bc487e24133c9284b8cb980e.php 第 26 行.
+NOTIC: [8] Use of undefined constant DEFAULT_THEME - assumed 'DEFAULT_THEME' /var/www/Thinkshu/Application/Runtime/Cache/Home/0c509b02bc487e24133c9284b8cb980e.php 第 27 行.
+NOTIC: [8] Use of undefined constant DEFAULT_THEME - assumed 'DEFAULT_THEME' /var/www/Thinkshu/Application/Runtime/Cache/Home/0c509b02bc487e24133c9284b8cb980e.php 第 30 行.
+NOTIC: [8] Use of undefined constant DEFAULT_THEME - assumed 'DEFAULT_THEME' /var/www/Thinkshu/Application/Runtime/Cache/Home/0c509b02bc487e24133c9284b8cb980e.php 第 37 行.
+NOTIC: [8] Use of undefined constant DEFAULT_THEME - assumed 'DEFAULT_THEME' /var/www/Thinkshu/Application/Runtime/Cache/Home/0c509b02bc487e24133c9284b8cb980e.php 第 42 行.
+NOTIC: [8] Use of undefined constant DEFAULT_THEME - assumed 'DEFAULT_THEME' /var/www/Thinkshu/Application/Runtime/Cache/Home/0c509b02bc487e24133c9284b8cb980e.php 第 43 行.
+NOTIC: [8] Use of undefined constant DEFAULT_THEME - assumed 'DEFAULT_THEME' /var/www/Thinkshu/Application/Runtime/Cache/Home/0c509b02bc487e24133c9284b8cb980e.php 第 570 行.
+NOTIC: [8] Use of undefined constant DEFAULT_THEME - assumed 'DEFAULT_THEME' /var/www/Thinkshu/Application/Runtime/Cache/Home/0c509b02bc487e24133c9284b8cb980e.php 第 623 行.
+NOTIC: [8] Use of undefined constant DEFAULT_THEME - assumed 'DEFAULT_THEME' /var/www/Thinkshu/Application/Runtime/Cache/Home/0c509b02bc487e24133c9284b8cb980e.php 第 676 行.
+NOTIC: [8] Use of undefined constant DEFAULT_THEME - assumed 'DEFAULT_THEME' /var/www/Thinkshu/Application/Runtime/Cache/Home/0c509b02bc487e24133c9284b8cb980e.php 第 729 行.
+NOTIC: [8] Use of undefined constant DEFAULT_THEME - assumed 'DEFAULT_THEME' /var/www/Thinkshu/Application/Runtime/Cache/Home/0c509b02bc487e24133c9284b8cb980e.php 第 750 行.
+NOTIC: [8] Use of undefined constant DEFAULT_THEME - assumed 'DEFAULT_THEME' /var/www/Thinkshu/Application/Runtime/Cache/Home/0c509b02bc487e24133c9284b8cb980e.php 第 771 行.
+NOTIC: [8] Use of undefined constant DEFAULT_THEME - assumed 'DEFAULT_THEME' /var/www/Thinkshu/Application/Runtime/Cache/Home/0c509b02bc487e24133c9284b8cb980e.php 第 792 行.
+NOTIC: [8] Use of undefined constant DEFAULT_THEME - assumed 'DEFAULT_THEME' /var/www/Thinkshu/Application/Runtime/Cache/Home/0c509b02bc487e24133c9284b8cb980e.php 第 813 行.
+NOTIC: [8] Use of undefined constant DEFAULT_THEME - assumed 'DEFAULT_THEME' /var/www/Thinkshu/Application/Runtime/Cache/Home/0c509b02bc487e24133c9284b8cb980e.php 第 850 行.
+NOTIC: [8] Use of undefined constant DEFAULT_THEME - assumed 'DEFAULT_THEME' /var/www/Thinkshu/Application/Runtime/Cache/Home/0c509b02bc487e24133c9284b8cb980e.php 第 906 行.
+NOTIC: [8] Use of undefined constant DEFAULT_THEME - assumed 'DEFAULT_THEME' /var/www/Thinkshu/Application/Runtime/Cache/Home/0c509b02bc487e24133c9284b8cb980e.php 第 940 行.
+NOTIC: [8] Use of undefined constant DEFAULT_THEME - assumed 'DEFAULT_THEME' /var/www/Thinkshu/Application/Runtime/Cache/Home/0c509b02bc487e24133c9284b8cb980e.php 第 974 行.
+NOTIC: [8] Use of undefined constant DEFAULT_THEME - assumed 'DEFAULT_THEME' /var/www/Thinkshu/Application/Runtime/Cache/Home/0c509b02bc487e24133c9284b8cb980e.php 第 1041 行.
+NOTIC: [8] Use of undefined constant DEFAULT_THEME - assumed 'DEFAULT_THEME' /var/www/Thinkshu/Application/Runtime/Cache/Home/0c509b02bc487e24133c9284b8cb980e.php 第 1065 行.
+NOTIC: [8] Use of undefined constant DEFAULT_THEME - assumed 'DEFAULT_THEME' /var/www/Thinkshu/Application/Runtime/Cache/Home/0c509b02bc487e24133c9284b8cb980e.php 第 1089 行.
+NOTIC: [8] Use of undefined constant DEFAULT_THEME - assumed 'DEFAULT_THEME' /var/www/Thinkshu/Application/Runtime/Cache/Home/0c509b02bc487e24133c9284b8cb980e.php 第 1114 行.
+NOTIC: [8] Use of undefined constant DEFAULT_THEME - assumed 'DEFAULT_THEME' /var/www/Thinkshu/Application/Runtime/Cache/Home/0c509b02bc487e24133c9284b8cb980e.php 第 1138 行.
+NOTIC: [8] Use of undefined constant DEFAULT_THEME - assumed 'DEFAULT_THEME' /var/www/Thinkshu/Application/Runtime/Cache/Home/0c509b02bc487e24133c9284b8cb980e.php 第 1255 行.
+NOTIC: [8] Use of undefined constant DEFAULT_THEME - assumed 'DEFAULT_THEME' /var/www/Thinkshu/Application/Runtime/Cache/Home/0c509b02bc487e24133c9284b8cb980e.php 第 1262 行.
+NOTIC: [8] Use of undefined constant DEFAULT_THEME - assumed 'DEFAULT_THEME' /var/www/Thinkshu/Application/Runtime/Cache/Home/0c509b02bc487e24133c9284b8cb980e.php 第 1267 行.
+NOTIC: [8] Use of undefined constant DEFAULT_THEME - assumed 'DEFAULT_THEME' /var/www/Thinkshu/Application/Runtime/Cache/Home/0c509b02bc487e24133c9284b8cb980e.php 第 1269 行.
+NOTIC: [8] Use of undefined constant DEFAULT_THEME - assumed 'DEFAULT_THEME' /var/www/Thinkshu/Application/Runtime/Cache/Home/0c509b02bc487e24133c9284b8cb980e.php 第 1270 行.
+NOTIC: [8] Use of undefined constant DEFAULT_THEME - assumed 'DEFAULT_THEME' /var/www/Thinkshu/Application/Runtime/Cache/Home/0c509b02bc487e24133c9284b8cb980e.php 第 1275 行.
+NOTIC: [8] Use of undefined constant DEFAULT_THEME - assumed 'DEFAULT_THEME' /var/www/Thinkshu/Application/Runtime/Cache/Home/0c509b02bc487e24133c9284b8cb980e.php 第 1278 行.
+NOTIC: [8] Use of undefined constant DEFAULT_THEME - assumed 'DEFAULT_THEME' /var/www/Thinkshu/Application/Runtime/Cache/Home/0c509b02bc487e24133c9284b8cb980e.php 第 1279 行.
+NOTIC: [8] Use of undefined constant DEFAULT_THEME - assumed 'DEFAULT_THEME' /var/www/Thinkshu/Application/Runtime/Cache/Home/0c509b02bc487e24133c9284b8cb980e.php 第 1280 行.
+NOTIC: [8] Use of undefined constant DEFAULT_THEME - assumed 'DEFAULT_THEME' /var/www/Thinkshu/Application/Runtime/Cache/Home/0c509b02bc487e24133c9284b8cb980e.php 第 1281 行.
+NOTIC: [8] Use of undefined constant DEFAULT_THEME - assumed 'DEFAULT_THEME' /var/www/Thinkshu/Application/Runtime/Cache/Home/0c509b02bc487e24133c9284b8cb980e.php 第 1282 行.
+NOTIC: [8] Use of undefined constant DEFAULT_THEME - assumed 'DEFAULT_THEME' /var/www/Thinkshu/Application/Runtime/Cache/Home/0c509b02bc487e24133c9284b8cb980e.php 第 1283 行.
+NOTIC: [8] Use of undefined constant DEFAULT_THEME - assumed 'DEFAULT_THEME' /var/www/Thinkshu/Application/Runtime/Cache/Home/0c509b02bc487e24133c9284b8cb980e.php 第 1284 行.
+NOTIC: [8] Use of undefined constant DEFAULT_THEME - assumed 'DEFAULT_THEME' /var/www/Thinkshu/Application/Runtime/Cache/Home/0c509b02bc487e24133c9284b8cb980e.php 第 1285 行.
+NOTIC: [8] Use of undefined constant DEFAULT_THEME - assumed 'DEFAULT_THEME' /var/www/Thinkshu/Application/Runtime/Cache/Home/0c509b02bc487e24133c9284b8cb980e.php 第 1289 行.
+NOTIC: [8] Use of undefined constant DEFAULT_THEME - assumed 'DEFAULT_THEME' /var/www/Thinkshu/Application/Runtime/Cache/Home/0c509b02bc487e24133c9284b8cb980e.php 第 1290 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.032459s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.032591s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000066s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000136s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000102s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000228s ]
+
+[ 2015-11-22T03:26:05+08:00 ] 127.0.0.1 /index.php/Home/user/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000188s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000075s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000174s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000085s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000208s ]
+NOTIC: [8] Use of undefined constant DEFAULT_THEME - assumed 'DEFAULT_THEME' /var/www/Thinkshu/Application/Runtime/Cache/Home/1da15e3d9bfcd71f6fb0aca932cc1300.php 第 10 行.
+NOTIC: [8] Use of undefined constant DEFAULT_THEME - assumed 'DEFAULT_THEME' /var/www/Thinkshu/Application/Runtime/Cache/Home/1da15e3d9bfcd71f6fb0aca932cc1300.php 第 11 行.
+NOTIC: [8] Use of undefined constant DEFAULT_THEME - assumed 'DEFAULT_THEME' /var/www/Thinkshu/Application/Runtime/Cache/Home/1da15e3d9bfcd71f6fb0aca932cc1300.php 第 14 行.
+NOTIC: [8] Use of undefined constant DEFAULT_THEME - assumed 'DEFAULT_THEME' /var/www/Thinkshu/Application/Runtime/Cache/Home/1da15e3d9bfcd71f6fb0aca932cc1300.php 第 25 行.
+NOTIC: [8] Use of undefined constant DEFAULT_THEME - assumed 'DEFAULT_THEME' /var/www/Thinkshu/Application/Runtime/Cache/Home/1da15e3d9bfcd71f6fb0aca932cc1300.php 第 26 行.
+NOTIC: [8] Use of undefined constant DEFAULT_THEME - assumed 'DEFAULT_THEME' /var/www/Thinkshu/Application/Runtime/Cache/Home/1da15e3d9bfcd71f6fb0aca932cc1300.php 第 29 行.
+NOTIC: [8] Use of undefined constant DEFAULT_THEME - assumed 'DEFAULT_THEME' /var/www/Thinkshu/Application/Runtime/Cache/Home/1da15e3d9bfcd71f6fb0aca932cc1300.php 第 37 行.
+NOTIC: [8] Use of undefined constant DEFAULT_THEME - assumed 'DEFAULT_THEME' /var/www/Thinkshu/Application/Runtime/Cache/Home/1da15e3d9bfcd71f6fb0aca932cc1300.php 第 38 行.
+NOTIC: [8] Use of undefined constant DEFAULT_THEME - assumed 'DEFAULT_THEME' /var/www/Thinkshu/Application/Runtime/Cache/Home/1da15e3d9bfcd71f6fb0aca932cc1300.php 第 272 行.
+NOTIC: [8] Use of undefined constant DEFAULT_THEME - assumed 'DEFAULT_THEME' /var/www/Thinkshu/Application/Runtime/Cache/Home/1da15e3d9bfcd71f6fb0aca932cc1300.php 第 279 行.
+NOTIC: [8] Use of undefined constant DEFAULT_THEME - assumed 'DEFAULT_THEME' /var/www/Thinkshu/Application/Runtime/Cache/Home/1da15e3d9bfcd71f6fb0aca932cc1300.php 第 284 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007474s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007565s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000069s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000144s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000073s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000157s ]
+
+[ 2015-11-22T03:26:21+08:00 ] 127.0.0.1 /index.php/Home/user/article_new
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000183s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000084s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000199s ]
+INFO: [ view_parse ] --START--
+NOTIC: [2] file_get_contents(./Template/default/user_header.html): failed to open stream: No such file or directory /var/www/Thinkshu/ThinkPHP/Library/Think/Template.class.php 第 696 行.
+NOTIC: [2] file_get_contents(./Template/default/user_menu.html): failed to open stream: No such file or directory /var/www/Thinkshu/ThinkPHP/Library/Think/Template.class.php 第 696 行.
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000100s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000207s ]
+NOTIC: [8] Use of undefined constant DEFAULT_THEME - assumed 'DEFAULT_THEME' /var/www/Thinkshu/Application/Runtime/Cache/Home/2d7c6b42297932e71125002e66f7d077.php 第 10 行.
+NOTIC: [8] Use of undefined constant DEFAULT_THEME - assumed 'DEFAULT_THEME' /var/www/Thinkshu/Application/Runtime/Cache/Home/2d7c6b42297932e71125002e66f7d077.php 第 11 行.
+NOTIC: [8] Use of undefined constant DEFAULT_THEME - assumed 'DEFAULT_THEME' /var/www/Thinkshu/Application/Runtime/Cache/Home/2d7c6b42297932e71125002e66f7d077.php 第 14 行.
+NOTIC: [8] Use of undefined constant DEFAULT_THEME - assumed 'DEFAULT_THEME' /var/www/Thinkshu/Application/Runtime/Cache/Home/2d7c6b42297932e71125002e66f7d077.php 第 25 行.
+NOTIC: [8] Use of undefined constant DEFAULT_THEME - assumed 'DEFAULT_THEME' /var/www/Thinkshu/Application/Runtime/Cache/Home/2d7c6b42297932e71125002e66f7d077.php 第 26 行.
+NOTIC: [8] Use of undefined constant DEFAULT_THEME - assumed 'DEFAULT_THEME' /var/www/Thinkshu/Application/Runtime/Cache/Home/2d7c6b42297932e71125002e66f7d077.php 第 27 行.
+NOTIC: [8] Use of undefined constant DEFAULT_THEME - assumed 'DEFAULT_THEME' /var/www/Thinkshu/Application/Runtime/Cache/Home/2d7c6b42297932e71125002e66f7d077.php 第 30 行.
+NOTIC: [8] Use of undefined constant DEFAULT_THEME - assumed 'DEFAULT_THEME' /var/www/Thinkshu/Application/Runtime/Cache/Home/2d7c6b42297932e71125002e66f7d077.php 第 37 行.
+NOTIC: [8] Use of undefined constant DEFAULT_THEME - assumed 'DEFAULT_THEME' /var/www/Thinkshu/Application/Runtime/Cache/Home/2d7c6b42297932e71125002e66f7d077.php 第 42 行.
+NOTIC: [8] Use of undefined constant DEFAULT_THEME - assumed 'DEFAULT_THEME' /var/www/Thinkshu/Application/Runtime/Cache/Home/2d7c6b42297932e71125002e66f7d077.php 第 43 行.
+NOTIC: [8] Use of undefined constant DEFAULT_THEME - assumed 'DEFAULT_THEME' /var/www/Thinkshu/Application/Runtime/Cache/Home/2d7c6b42297932e71125002e66f7d077.php 第 263 行.
+NOTIC: [8] Use of undefined constant DEFAULT_THEME - assumed 'DEFAULT_THEME' /var/www/Thinkshu/Application/Runtime/Cache/Home/2d7c6b42297932e71125002e66f7d077.php 第 270 行.
+NOTIC: [8] Use of undefined constant DEFAULT_THEME - assumed 'DEFAULT_THEME' /var/www/Thinkshu/Application/Runtime/Cache/Home/2d7c6b42297932e71125002e66f7d077.php 第 275 行.
+NOTIC: [8] Use of undefined constant DEFAULT_THEME - assumed 'DEFAULT_THEME' /var/www/Thinkshu/Application/Runtime/Cache/Home/2d7c6b42297932e71125002e66f7d077.php 第 277 行.
+NOTIC: [8] Use of undefined constant DEFAULT_THEME - assumed 'DEFAULT_THEME' /var/www/Thinkshu/Application/Runtime/Cache/Home/2d7c6b42297932e71125002e66f7d077.php 第 278 行.
+NOTIC: [8] Use of undefined constant DEFAULT_THEME - assumed 'DEFAULT_THEME' /var/www/Thinkshu/Application/Runtime/Cache/Home/2d7c6b42297932e71125002e66f7d077.php 第 283 行.
+NOTIC: [8] Use of undefined constant DEFAULT_THEME - assumed 'DEFAULT_THEME' /var/www/Thinkshu/Application/Runtime/Cache/Home/2d7c6b42297932e71125002e66f7d077.php 第 286 行.
+NOTIC: [8] Use of undefined constant DEFAULT_THEME - assumed 'DEFAULT_THEME' /var/www/Thinkshu/Application/Runtime/Cache/Home/2d7c6b42297932e71125002e66f7d077.php 第 287 行.
+NOTIC: [8] Use of undefined constant DEFAULT_THEME - assumed 'DEFAULT_THEME' /var/www/Thinkshu/Application/Runtime/Cache/Home/2d7c6b42297932e71125002e66f7d077.php 第 288 行.
+NOTIC: [8] Use of undefined constant DEFAULT_THEME - assumed 'DEFAULT_THEME' /var/www/Thinkshu/Application/Runtime/Cache/Home/2d7c6b42297932e71125002e66f7d077.php 第 289 行.
+NOTIC: [8] Use of undefined constant DEFAULT_THEME - assumed 'DEFAULT_THEME' /var/www/Thinkshu/Application/Runtime/Cache/Home/2d7c6b42297932e71125002e66f7d077.php 第 290 行.
+NOTIC: [8] Use of undefined constant DEFAULT_THEME - assumed 'DEFAULT_THEME' /var/www/Thinkshu/Application/Runtime/Cache/Home/2d7c6b42297932e71125002e66f7d077.php 第 291 行.
+NOTIC: [8] Use of undefined constant DEFAULT_THEME - assumed 'DEFAULT_THEME' /var/www/Thinkshu/Application/Runtime/Cache/Home/2d7c6b42297932e71125002e66f7d077.php 第 292 行.
+NOTIC: [8] Use of undefined constant DEFAULT_THEME - assumed 'DEFAULT_THEME' /var/www/Thinkshu/Application/Runtime/Cache/Home/2d7c6b42297932e71125002e66f7d077.php 第 293 行.
+NOTIC: [8] Use of undefined constant DEFAULT_THEME - assumed 'DEFAULT_THEME' /var/www/Thinkshu/Application/Runtime/Cache/Home/2d7c6b42297932e71125002e66f7d077.php 第 297 行.
+NOTIC: [8] Use of undefined constant DEFAULT_THEME - assumed 'DEFAULT_THEME' /var/www/Thinkshu/Application/Runtime/Cache/Home/2d7c6b42297932e71125002e66f7d077.php 第 298 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015070s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015174s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000074s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000152s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000108s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000225s ]
+
+[ 2015-11-22T03:27:20+08:00 ] 127.0.0.1 /index.php/Home/user/article_new
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000156s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000044s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000106s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000064s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000124s ]
+NOTIC: [8] Use of undefined constant DEFAULT_THEME - assumed 'DEFAULT_THEME' /var/www/Thinkshu/Application/Runtime/Cache/Home/2d7c6b42297932e71125002e66f7d077.php 第 10 行.
+NOTIC: [8] Use of undefined constant DEFAULT_THEME - assumed 'DEFAULT_THEME' /var/www/Thinkshu/Application/Runtime/Cache/Home/2d7c6b42297932e71125002e66f7d077.php 第 11 行.
+NOTIC: [8] Use of undefined constant DEFAULT_THEME - assumed 'DEFAULT_THEME' /var/www/Thinkshu/Application/Runtime/Cache/Home/2d7c6b42297932e71125002e66f7d077.php 第 14 行.
+NOTIC: [8] Use of undefined constant DEFAULT_THEME - assumed 'DEFAULT_THEME' /var/www/Thinkshu/Application/Runtime/Cache/Home/2d7c6b42297932e71125002e66f7d077.php 第 25 行.
+NOTIC: [8] Use of undefined constant DEFAULT_THEME - assumed 'DEFAULT_THEME' /var/www/Thinkshu/Application/Runtime/Cache/Home/2d7c6b42297932e71125002e66f7d077.php 第 26 行.
+NOTIC: [8] Use of undefined constant DEFAULT_THEME - assumed 'DEFAULT_THEME' /var/www/Thinkshu/Application/Runtime/Cache/Home/2d7c6b42297932e71125002e66f7d077.php 第 27 行.
+NOTIC: [8] Use of undefined constant DEFAULT_THEME - assumed 'DEFAULT_THEME' /var/www/Thinkshu/Application/Runtime/Cache/Home/2d7c6b42297932e71125002e66f7d077.php 第 30 行.
+NOTIC: [8] Use of undefined constant DEFAULT_THEME - assumed 'DEFAULT_THEME' /var/www/Thinkshu/Application/Runtime/Cache/Home/2d7c6b42297932e71125002e66f7d077.php 第 37 行.
+NOTIC: [8] Use of undefined constant DEFAULT_THEME - assumed 'DEFAULT_THEME' /var/www/Thinkshu/Application/Runtime/Cache/Home/2d7c6b42297932e71125002e66f7d077.php 第 42 行.
+NOTIC: [8] Use of undefined constant DEFAULT_THEME - assumed 'DEFAULT_THEME' /var/www/Thinkshu/Application/Runtime/Cache/Home/2d7c6b42297932e71125002e66f7d077.php 第 43 行.
+NOTIC: [8] Use of undefined constant DEFAULT_THEME - assumed 'DEFAULT_THEME' /var/www/Thinkshu/Application/Runtime/Cache/Home/2d7c6b42297932e71125002e66f7d077.php 第 216 行.
+NOTIC: [8] Use of undefined constant DEFAULT_THEME - assumed 'DEFAULT_THEME' /var/www/Thinkshu/Application/Runtime/Cache/Home/2d7c6b42297932e71125002e66f7d077.php 第 233 行.
+NOTIC: [8] Use of undefined constant DEFAULT_THEME - assumed 'DEFAULT_THEME' /var/www/Thinkshu/Application/Runtime/Cache/Home/2d7c6b42297932e71125002e66f7d077.php 第 250 行.
+NOTIC: [8] Use of undefined constant DEFAULT_THEME - assumed 'DEFAULT_THEME' /var/www/Thinkshu/Application/Runtime/Cache/Home/2d7c6b42297932e71125002e66f7d077.php 第 276 行.
+NOTIC: [8] Use of undefined constant DEFAULT_THEME - assumed 'DEFAULT_THEME' /var/www/Thinkshu/Application/Runtime/Cache/Home/2d7c6b42297932e71125002e66f7d077.php 第 725 行.
+NOTIC: [8] Use of undefined constant DEFAULT_THEME - assumed 'DEFAULT_THEME' /var/www/Thinkshu/Application/Runtime/Cache/Home/2d7c6b42297932e71125002e66f7d077.php 第 732 行.
+NOTIC: [8] Use of undefined constant DEFAULT_THEME - assumed 'DEFAULT_THEME' /var/www/Thinkshu/Application/Runtime/Cache/Home/2d7c6b42297932e71125002e66f7d077.php 第 737 行.
+NOTIC: [8] Use of undefined constant DEFAULT_THEME - assumed 'DEFAULT_THEME' /var/www/Thinkshu/Application/Runtime/Cache/Home/2d7c6b42297932e71125002e66f7d077.php 第 739 行.
+NOTIC: [8] Use of undefined constant DEFAULT_THEME - assumed 'DEFAULT_THEME' /var/www/Thinkshu/Application/Runtime/Cache/Home/2d7c6b42297932e71125002e66f7d077.php 第 740 行.
+NOTIC: [8] Use of undefined constant DEFAULT_THEME - assumed 'DEFAULT_THEME' /var/www/Thinkshu/Application/Runtime/Cache/Home/2d7c6b42297932e71125002e66f7d077.php 第 745 行.
+NOTIC: [8] Use of undefined constant DEFAULT_THEME - assumed 'DEFAULT_THEME' /var/www/Thinkshu/Application/Runtime/Cache/Home/2d7c6b42297932e71125002e66f7d077.php 第 748 行.
+NOTIC: [8] Use of undefined constant DEFAULT_THEME - assumed 'DEFAULT_THEME' /var/www/Thinkshu/Application/Runtime/Cache/Home/2d7c6b42297932e71125002e66f7d077.php 第 749 行.
+NOTIC: [8] Use of undefined constant DEFAULT_THEME - assumed 'DEFAULT_THEME' /var/www/Thinkshu/Application/Runtime/Cache/Home/2d7c6b42297932e71125002e66f7d077.php 第 750 行.
+NOTIC: [8] Use of undefined constant DEFAULT_THEME - assumed 'DEFAULT_THEME' /var/www/Thinkshu/Application/Runtime/Cache/Home/2d7c6b42297932e71125002e66f7d077.php 第 751 行.
+NOTIC: [8] Use of undefined constant DEFAULT_THEME - assumed 'DEFAULT_THEME' /var/www/Thinkshu/Application/Runtime/Cache/Home/2d7c6b42297932e71125002e66f7d077.php 第 752 行.
+NOTIC: [8] Use of undefined constant DEFAULT_THEME - assumed 'DEFAULT_THEME' /var/www/Thinkshu/Application/Runtime/Cache/Home/2d7c6b42297932e71125002e66f7d077.php 第 753 行.
+NOTIC: [8] Use of undefined constant DEFAULT_THEME - assumed 'DEFAULT_THEME' /var/www/Thinkshu/Application/Runtime/Cache/Home/2d7c6b42297932e71125002e66f7d077.php 第 754 行.
+NOTIC: [8] Use of undefined constant DEFAULT_THEME - assumed 'DEFAULT_THEME' /var/www/Thinkshu/Application/Runtime/Cache/Home/2d7c6b42297932e71125002e66f7d077.php 第 755 行.
+NOTIC: [8] Use of undefined constant DEFAULT_THEME - assumed 'DEFAULT_THEME' /var/www/Thinkshu/Application/Runtime/Cache/Home/2d7c6b42297932e71125002e66f7d077.php 第 759 行.
+NOTIC: [8] Use of undefined constant DEFAULT_THEME - assumed 'DEFAULT_THEME' /var/www/Thinkshu/Application/Runtime/Cache/Home/2d7c6b42297932e71125002e66f7d077.php 第 760 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015978s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016078s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000088s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000201s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000054s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000119s ]
+
+[ 2015-11-22T03:28:20+08:00 ] 127.0.0.1 /index.php/Home/user/article_new
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000175s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000067s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000172s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000115s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000244s ]
+NOTIC: [8] Use of undefined constant DEFAULT_THEME - assumed 'DEFAULT_THEME' /var/www/Thinkshu/Application/Runtime/Cache/Home/2d7c6b42297932e71125002e66f7d077.php 第 10 行.
+NOTIC: [8] Use of undefined constant DEFAULT_THEME - assumed 'DEFAULT_THEME' /var/www/Thinkshu/Application/Runtime/Cache/Home/2d7c6b42297932e71125002e66f7d077.php 第 11 行.
+NOTIC: [8] Use of undefined constant DEFAULT_THEME - assumed 'DEFAULT_THEME' /var/www/Thinkshu/Application/Runtime/Cache/Home/2d7c6b42297932e71125002e66f7d077.php 第 14 行.
+NOTIC: [8] Use of undefined constant DEFAULT_THEME - assumed 'DEFAULT_THEME' /var/www/Thinkshu/Application/Runtime/Cache/Home/2d7c6b42297932e71125002e66f7d077.php 第 25 行.
+NOTIC: [8] Use of undefined constant DEFAULT_THEME - assumed 'DEFAULT_THEME' /var/www/Thinkshu/Application/Runtime/Cache/Home/2d7c6b42297932e71125002e66f7d077.php 第 26 行.
+NOTIC: [8] Use of undefined constant DEFAULT_THEME - assumed 'DEFAULT_THEME' /var/www/Thinkshu/Application/Runtime/Cache/Home/2d7c6b42297932e71125002e66f7d077.php 第 27 行.
+NOTIC: [8] Use of undefined constant DEFAULT_THEME - assumed 'DEFAULT_THEME' /var/www/Thinkshu/Application/Runtime/Cache/Home/2d7c6b42297932e71125002e66f7d077.php 第 30 行.
+NOTIC: [8] Use of undefined constant DEFAULT_THEME - assumed 'DEFAULT_THEME' /var/www/Thinkshu/Application/Runtime/Cache/Home/2d7c6b42297932e71125002e66f7d077.php 第 37 行.
+NOTIC: [8] Use of undefined constant DEFAULT_THEME - assumed 'DEFAULT_THEME' /var/www/Thinkshu/Application/Runtime/Cache/Home/2d7c6b42297932e71125002e66f7d077.php 第 42 行.
+NOTIC: [8] Use of undefined constant DEFAULT_THEME - assumed 'DEFAULT_THEME' /var/www/Thinkshu/Application/Runtime/Cache/Home/2d7c6b42297932e71125002e66f7d077.php 第 43 行.
+NOTIC: [8] Use of undefined constant DEFAULT_THEME - assumed 'DEFAULT_THEME' /var/www/Thinkshu/Application/Runtime/Cache/Home/2d7c6b42297932e71125002e66f7d077.php 第 216 行.
+NOTIC: [8] Use of undefined constant DEFAULT_THEME - assumed 'DEFAULT_THEME' /var/www/Thinkshu/Application/Runtime/Cache/Home/2d7c6b42297932e71125002e66f7d077.php 第 233 行.
+NOTIC: [8] Use of undefined constant DEFAULT_THEME - assumed 'DEFAULT_THEME' /var/www/Thinkshu/Application/Runtime/Cache/Home/2d7c6b42297932e71125002e66f7d077.php 第 250 行.
+NOTIC: [8] Use of undefined constant DEFAULT_THEME - assumed 'DEFAULT_THEME' /var/www/Thinkshu/Application/Runtime/Cache/Home/2d7c6b42297932e71125002e66f7d077.php 第 276 行.
+NOTIC: [8] Use of undefined constant DEFAULT_THEME - assumed 'DEFAULT_THEME' /var/www/Thinkshu/Application/Runtime/Cache/Home/2d7c6b42297932e71125002e66f7d077.php 第 725 行.
+NOTIC: [8] Use of undefined constant DEFAULT_THEME - assumed 'DEFAULT_THEME' /var/www/Thinkshu/Application/Runtime/Cache/Home/2d7c6b42297932e71125002e66f7d077.php 第 732 行.
+NOTIC: [8] Use of undefined constant DEFAULT_THEME - assumed 'DEFAULT_THEME' /var/www/Thinkshu/Application/Runtime/Cache/Home/2d7c6b42297932e71125002e66f7d077.php 第 737 行.
+NOTIC: [8] Use of undefined constant DEFAULT_THEME - assumed 'DEFAULT_THEME' /var/www/Thinkshu/Application/Runtime/Cache/Home/2d7c6b42297932e71125002e66f7d077.php 第 739 行.
+NOTIC: [8] Use of undefined constant DEFAULT_THEME - assumed 'DEFAULT_THEME' /var/www/Thinkshu/Application/Runtime/Cache/Home/2d7c6b42297932e71125002e66f7d077.php 第 740 行.
+NOTIC: [8] Use of undefined constant DEFAULT_THEME - assumed 'DEFAULT_THEME' /var/www/Thinkshu/Application/Runtime/Cache/Home/2d7c6b42297932e71125002e66f7d077.php 第 745 行.
+NOTIC: [8] Use of undefined constant DEFAULT_THEME - assumed 'DEFAULT_THEME' /var/www/Thinkshu/Application/Runtime/Cache/Home/2d7c6b42297932e71125002e66f7d077.php 第 748 行.
+NOTIC: [8] Use of undefined constant DEFAULT_THEME - assumed 'DEFAULT_THEME' /var/www/Thinkshu/Application/Runtime/Cache/Home/2d7c6b42297932e71125002e66f7d077.php 第 749 行.
+NOTIC: [8] Use of undefined constant DEFAULT_THEME - assumed 'DEFAULT_THEME' /var/www/Thinkshu/Application/Runtime/Cache/Home/2d7c6b42297932e71125002e66f7d077.php 第 750 行.
+NOTIC: [8] Use of undefined constant DEFAULT_THEME - assumed 'DEFAULT_THEME' /var/www/Thinkshu/Application/Runtime/Cache/Home/2d7c6b42297932e71125002e66f7d077.php 第 751 行.
+NOTIC: [8] Use of undefined constant DEFAULT_THEME - assumed 'DEFAULT_THEME' /var/www/Thinkshu/Application/Runtime/Cache/Home/2d7c6b42297932e71125002e66f7d077.php 第 752 行.
+NOTIC: [8] Use of undefined constant DEFAULT_THEME - assumed 'DEFAULT_THEME' /var/www/Thinkshu/Application/Runtime/Cache/Home/2d7c6b42297932e71125002e66f7d077.php 第 753 行.
+NOTIC: [8] Use of undefined constant DEFAULT_THEME - assumed 'DEFAULT_THEME' /var/www/Thinkshu/Application/Runtime/Cache/Home/2d7c6b42297932e71125002e66f7d077.php 第 754 行.
+NOTIC: [8] Use of undefined constant DEFAULT_THEME - assumed 'DEFAULT_THEME' /var/www/Thinkshu/Application/Runtime/Cache/Home/2d7c6b42297932e71125002e66f7d077.php 第 755 行.
+NOTIC: [8] Use of undefined constant DEFAULT_THEME - assumed 'DEFAULT_THEME' /var/www/Thinkshu/Application/Runtime/Cache/Home/2d7c6b42297932e71125002e66f7d077.php 第 759 行.
+NOTIC: [8] Use of undefined constant DEFAULT_THEME - assumed 'DEFAULT_THEME' /var/www/Thinkshu/Application/Runtime/Cache/Home/2d7c6b42297932e71125002e66f7d077.php 第 760 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.020270s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.020361s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000068s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000145s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000066s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000152s ]
+
+[ 2015-11-22T03:28:23+08:00 ] 127.0.0.1 /index.php/Home/user/article_new
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000147s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000069s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000167s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000106s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000204s ]
+NOTIC: [8] Use of undefined constant DEFAULT_THEME - assumed 'DEFAULT_THEME' /var/www/Thinkshu/Application/Runtime/Cache/Home/2d7c6b42297932e71125002e66f7d077.php 第 10 行.
+NOTIC: [8] Use of undefined constant DEFAULT_THEME - assumed 'DEFAULT_THEME' /var/www/Thinkshu/Application/Runtime/Cache/Home/2d7c6b42297932e71125002e66f7d077.php 第 11 行.
+NOTIC: [8] Use of undefined constant DEFAULT_THEME - assumed 'DEFAULT_THEME' /var/www/Thinkshu/Application/Runtime/Cache/Home/2d7c6b42297932e71125002e66f7d077.php 第 14 行.
+NOTIC: [8] Use of undefined constant DEFAULT_THEME - assumed 'DEFAULT_THEME' /var/www/Thinkshu/Application/Runtime/Cache/Home/2d7c6b42297932e71125002e66f7d077.php 第 25 行.
+NOTIC: [8] Use of undefined constant DEFAULT_THEME - assumed 'DEFAULT_THEME' /var/www/Thinkshu/Application/Runtime/Cache/Home/2d7c6b42297932e71125002e66f7d077.php 第 26 行.
+NOTIC: [8] Use of undefined constant DEFAULT_THEME - assumed 'DEFAULT_THEME' /var/www/Thinkshu/Application/Runtime/Cache/Home/2d7c6b42297932e71125002e66f7d077.php 第 27 行.
+NOTIC: [8] Use of undefined constant DEFAULT_THEME - assumed 'DEFAULT_THEME' /var/www/Thinkshu/Application/Runtime/Cache/Home/2d7c6b42297932e71125002e66f7d077.php 第 30 行.
+NOTIC: [8] Use of undefined constant DEFAULT_THEME - assumed 'DEFAULT_THEME' /var/www/Thinkshu/Application/Runtime/Cache/Home/2d7c6b42297932e71125002e66f7d077.php 第 37 行.
+NOTIC: [8] Use of undefined constant DEFAULT_THEME - assumed 'DEFAULT_THEME' /var/www/Thinkshu/Application/Runtime/Cache/Home/2d7c6b42297932e71125002e66f7d077.php 第 42 行.
+NOTIC: [8] Use of undefined constant DEFAULT_THEME - assumed 'DEFAULT_THEME' /var/www/Thinkshu/Application/Runtime/Cache/Home/2d7c6b42297932e71125002e66f7d077.php 第 43 行.
+NOTIC: [8] Use of undefined constant DEFAULT_THEME - assumed 'DEFAULT_THEME' /var/www/Thinkshu/Application/Runtime/Cache/Home/2d7c6b42297932e71125002e66f7d077.php 第 216 行.
+NOTIC: [8] Use of undefined constant DEFAULT_THEME - assumed 'DEFAULT_THEME' /var/www/Thinkshu/Application/Runtime/Cache/Home/2d7c6b42297932e71125002e66f7d077.php 第 233 行.
+NOTIC: [8] Use of undefined constant DEFAULT_THEME - assumed 'DEFAULT_THEME' /var/www/Thinkshu/Application/Runtime/Cache/Home/2d7c6b42297932e71125002e66f7d077.php 第 250 行.
+NOTIC: [8] Use of undefined constant DEFAULT_THEME - assumed 'DEFAULT_THEME' /var/www/Thinkshu/Application/Runtime/Cache/Home/2d7c6b42297932e71125002e66f7d077.php 第 276 行.
+NOTIC: [8] Use of undefined constant DEFAULT_THEME - assumed 'DEFAULT_THEME' /var/www/Thinkshu/Application/Runtime/Cache/Home/2d7c6b42297932e71125002e66f7d077.php 第 725 行.
+NOTIC: [8] Use of undefined constant DEFAULT_THEME - assumed 'DEFAULT_THEME' /var/www/Thinkshu/Application/Runtime/Cache/Home/2d7c6b42297932e71125002e66f7d077.php 第 732 行.
+NOTIC: [8] Use of undefined constant DEFAULT_THEME - assumed 'DEFAULT_THEME' /var/www/Thinkshu/Application/Runtime/Cache/Home/2d7c6b42297932e71125002e66f7d077.php 第 737 行.
+NOTIC: [8] Use of undefined constant DEFAULT_THEME - assumed 'DEFAULT_THEME' /var/www/Thinkshu/Application/Runtime/Cache/Home/2d7c6b42297932e71125002e66f7d077.php 第 739 行.
+NOTIC: [8] Use of undefined constant DEFAULT_THEME - assumed 'DEFAULT_THEME' /var/www/Thinkshu/Application/Runtime/Cache/Home/2d7c6b42297932e71125002e66f7d077.php 第 740 行.
+NOTIC: [8] Use of undefined constant DEFAULT_THEME - assumed 'DEFAULT_THEME' /var/www/Thinkshu/Application/Runtime/Cache/Home/2d7c6b42297932e71125002e66f7d077.php 第 745 行.
+NOTIC: [8] Use of undefined constant DEFAULT_THEME - assumed 'DEFAULT_THEME' /var/www/Thinkshu/Application/Runtime/Cache/Home/2d7c6b42297932e71125002e66f7d077.php 第 748 行.
+NOTIC: [8] Use of undefined constant DEFAULT_THEME - assumed 'DEFAULT_THEME' /var/www/Thinkshu/Application/Runtime/Cache/Home/2d7c6b42297932e71125002e66f7d077.php 第 749 行.
+NOTIC: [8] Use of undefined constant DEFAULT_THEME - assumed 'DEFAULT_THEME' /var/www/Thinkshu/Application/Runtime/Cache/Home/2d7c6b42297932e71125002e66f7d077.php 第 750 行.
+NOTIC: [8] Use of undefined constant DEFAULT_THEME - assumed 'DEFAULT_THEME' /var/www/Thinkshu/Application/Runtime/Cache/Home/2d7c6b42297932e71125002e66f7d077.php 第 751 行.
+NOTIC: [8] Use of undefined constant DEFAULT_THEME - assumed 'DEFAULT_THEME' /var/www/Thinkshu/Application/Runtime/Cache/Home/2d7c6b42297932e71125002e66f7d077.php 第 752 行.
+NOTIC: [8] Use of undefined constant DEFAULT_THEME - assumed 'DEFAULT_THEME' /var/www/Thinkshu/Application/Runtime/Cache/Home/2d7c6b42297932e71125002e66f7d077.php 第 753 行.
+NOTIC: [8] Use of undefined constant DEFAULT_THEME - assumed 'DEFAULT_THEME' /var/www/Thinkshu/Application/Runtime/Cache/Home/2d7c6b42297932e71125002e66f7d077.php 第 754 行.
+NOTIC: [8] Use of undefined constant DEFAULT_THEME - assumed 'DEFAULT_THEME' /var/www/Thinkshu/Application/Runtime/Cache/Home/2d7c6b42297932e71125002e66f7d077.php 第 755 行.
+NOTIC: [8] Use of undefined constant DEFAULT_THEME - assumed 'DEFAULT_THEME' /var/www/Thinkshu/Application/Runtime/Cache/Home/2d7c6b42297932e71125002e66f7d077.php 第 759 行.
+NOTIC: [8] Use of undefined constant DEFAULT_THEME - assumed 'DEFAULT_THEME' /var/www/Thinkshu/Application/Runtime/Cache/Home/2d7c6b42297932e71125002e66f7d077.php 第 760 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.019784s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.019871s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000098s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000196s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000115s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000251s ]
+
+[ 2015-11-22T03:28:47+08:00 ] 127.0.0.1 /index.php/Home/user/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000163s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000068s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000160s ]
+INFO: [ view_parse ] --START--
+NOTIC: [2] file_get_contents(./Template/default/user_header.html): failed to open stream: No such file or directory /var/www/Thinkshu/ThinkPHP/Library/Think/Template.class.php 第 696 行.
+NOTIC: [2] file_get_contents(./Template/default/user_menu.html): failed to open stream: No such file or directory /var/www/Thinkshu/ThinkPHP/Library/Think/Template.class.php 第 696 行.
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000144s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000250s ]
+NOTIC: [8] Use of undefined constant DEFAULT_THEME - assumed 'DEFAULT_THEME' /var/www/Thinkshu/Application/Runtime/Cache/Home/0c509b02bc487e24133c9284b8cb980e.php 第 10 行.
+NOTIC: [8] Use of undefined constant DEFAULT_THEME - assumed 'DEFAULT_THEME' /var/www/Thinkshu/Application/Runtime/Cache/Home/0c509b02bc487e24133c9284b8cb980e.php 第 11 行.
+NOTIC: [8] Use of undefined constant DEFAULT_THEME - assumed 'DEFAULT_THEME' /var/www/Thinkshu/Application/Runtime/Cache/Home/0c509b02bc487e24133c9284b8cb980e.php 第 14 行.
+NOTIC: [8] Use of undefined constant DEFAULT_THEME - assumed 'DEFAULT_THEME' /var/www/Thinkshu/Application/Runtime/Cache/Home/0c509b02bc487e24133c9284b8cb980e.php 第 25 行.
+NOTIC: [8] Use of undefined constant DEFAULT_THEME - assumed 'DEFAULT_THEME' /var/www/Thinkshu/Application/Runtime/Cache/Home/0c509b02bc487e24133c9284b8cb980e.php 第 26 行.
+NOTIC: [8] Use of undefined constant DEFAULT_THEME - assumed 'DEFAULT_THEME' /var/www/Thinkshu/Application/Runtime/Cache/Home/0c509b02bc487e24133c9284b8cb980e.php 第 27 行.
+NOTIC: [8] Use of undefined constant DEFAULT_THEME - assumed 'DEFAULT_THEME' /var/www/Thinkshu/Application/Runtime/Cache/Home/0c509b02bc487e24133c9284b8cb980e.php 第 30 行.
+NOTIC: [8] Use of undefined constant DEFAULT_THEME - assumed 'DEFAULT_THEME' /var/www/Thinkshu/Application/Runtime/Cache/Home/0c509b02bc487e24133c9284b8cb980e.php 第 37 行.
+NOTIC: [8] Use of undefined constant DEFAULT_THEME - assumed 'DEFAULT_THEME' /var/www/Thinkshu/Application/Runtime/Cache/Home/0c509b02bc487e24133c9284b8cb980e.php 第 42 行.
+NOTIC: [8] Use of undefined constant DEFAULT_THEME - assumed 'DEFAULT_THEME' /var/www/Thinkshu/Application/Runtime/Cache/Home/0c509b02bc487e24133c9284b8cb980e.php 第 43 行.
+NOTIC: [8] Use of undefined constant DEFAULT_THEME - assumed 'DEFAULT_THEME' /var/www/Thinkshu/Application/Runtime/Cache/Home/0c509b02bc487e24133c9284b8cb980e.php 第 570 行.
+NOTIC: [8] Use of undefined constant DEFAULT_THEME - assumed 'DEFAULT_THEME' /var/www/Thinkshu/Application/Runtime/Cache/Home/0c509b02bc487e24133c9284b8cb980e.php 第 623 行.
+NOTIC: [8] Use of undefined constant DEFAULT_THEME - assumed 'DEFAULT_THEME' /var/www/Thinkshu/Application/Runtime/Cache/Home/0c509b02bc487e24133c9284b8cb980e.php 第 676 行.
+NOTIC: [8] Use of undefined constant DEFAULT_THEME - assumed 'DEFAULT_THEME' /var/www/Thinkshu/Application/Runtime/Cache/Home/0c509b02bc487e24133c9284b8cb980e.php 第 729 行.
+NOTIC: [8] Use of undefined constant DEFAULT_THEME - assumed 'DEFAULT_THEME' /var/www/Thinkshu/Application/Runtime/Cache/Home/0c509b02bc487e24133c9284b8cb980e.php 第 750 行.
+NOTIC: [8] Use of undefined constant DEFAULT_THEME - assumed 'DEFAULT_THEME' /var/www/Thinkshu/Application/Runtime/Cache/Home/0c509b02bc487e24133c9284b8cb980e.php 第 771 行.
+NOTIC: [8] Use of undefined constant DEFAULT_THEME - assumed 'DEFAULT_THEME' /var/www/Thinkshu/Application/Runtime/Cache/Home/0c509b02bc487e24133c9284b8cb980e.php 第 792 行.
+NOTIC: [8] Use of undefined constant DEFAULT_THEME - assumed 'DEFAULT_THEME' /var/www/Thinkshu/Application/Runtime/Cache/Home/0c509b02bc487e24133c9284b8cb980e.php 第 813 行.
+NOTIC: [8] Use of undefined constant DEFAULT_THEME - assumed 'DEFAULT_THEME' /var/www/Thinkshu/Application/Runtime/Cache/Home/0c509b02bc487e24133c9284b8cb980e.php 第 850 行.
+NOTIC: [8] Use of undefined constant DEFAULT_THEME - assumed 'DEFAULT_THEME' /var/www/Thinkshu/Application/Runtime/Cache/Home/0c509b02bc487e24133c9284b8cb980e.php 第 906 行.
+NOTIC: [8] Use of undefined constant DEFAULT_THEME - assumed 'DEFAULT_THEME' /var/www/Thinkshu/Application/Runtime/Cache/Home/0c509b02bc487e24133c9284b8cb980e.php 第 940 行.
+NOTIC: [8] Use of undefined constant DEFAULT_THEME - assumed 'DEFAULT_THEME' /var/www/Thinkshu/Application/Runtime/Cache/Home/0c509b02bc487e24133c9284b8cb980e.php 第 974 行.
+NOTIC: [8] Use of undefined constant DEFAULT_THEME - assumed 'DEFAULT_THEME' /var/www/Thinkshu/Application/Runtime/Cache/Home/0c509b02bc487e24133c9284b8cb980e.php 第 1041 行.
+NOTIC: [8] Use of undefined constant DEFAULT_THEME - assumed 'DEFAULT_THEME' /var/www/Thinkshu/Application/Runtime/Cache/Home/0c509b02bc487e24133c9284b8cb980e.php 第 1065 行.
+NOTIC: [8] Use of undefined constant DEFAULT_THEME - assumed 'DEFAULT_THEME' /var/www/Thinkshu/Application/Runtime/Cache/Home/0c509b02bc487e24133c9284b8cb980e.php 第 1089 行.
+NOTIC: [8] Use of undefined constant DEFAULT_THEME - assumed 'DEFAULT_THEME' /var/www/Thinkshu/Application/Runtime/Cache/Home/0c509b02bc487e24133c9284b8cb980e.php 第 1114 行.
+NOTIC: [8] Use of undefined constant DEFAULT_THEME - assumed 'DEFAULT_THEME' /var/www/Thinkshu/Application/Runtime/Cache/Home/0c509b02bc487e24133c9284b8cb980e.php 第 1138 行.
+NOTIC: [8] Use of undefined constant DEFAULT_THEME - assumed 'DEFAULT_THEME' /var/www/Thinkshu/Application/Runtime/Cache/Home/0c509b02bc487e24133c9284b8cb980e.php 第 1255 行.
+NOTIC: [8] Use of undefined constant DEFAULT_THEME - assumed 'DEFAULT_THEME' /var/www/Thinkshu/Application/Runtime/Cache/Home/0c509b02bc487e24133c9284b8cb980e.php 第 1262 行.
+NOTIC: [8] Use of undefined constant DEFAULT_THEME - assumed 'DEFAULT_THEME' /var/www/Thinkshu/Application/Runtime/Cache/Home/0c509b02bc487e24133c9284b8cb980e.php 第 1267 行.
+NOTIC: [8] Use of undefined constant DEFAULT_THEME - assumed 'DEFAULT_THEME' /var/www/Thinkshu/Application/Runtime/Cache/Home/0c509b02bc487e24133c9284b8cb980e.php 第 1269 行.
+NOTIC: [8] Use of undefined constant DEFAULT_THEME - assumed 'DEFAULT_THEME' /var/www/Thinkshu/Application/Runtime/Cache/Home/0c509b02bc487e24133c9284b8cb980e.php 第 1270 行.
+NOTIC: [8] Use of undefined constant DEFAULT_THEME - assumed 'DEFAULT_THEME' /var/www/Thinkshu/Application/Runtime/Cache/Home/0c509b02bc487e24133c9284b8cb980e.php 第 1275 行.
+NOTIC: [8] Use of undefined constant DEFAULT_THEME - assumed 'DEFAULT_THEME' /var/www/Thinkshu/Application/Runtime/Cache/Home/0c509b02bc487e24133c9284b8cb980e.php 第 1278 行.
+NOTIC: [8] Use of undefined constant DEFAULT_THEME - assumed 'DEFAULT_THEME' /var/www/Thinkshu/Application/Runtime/Cache/Home/0c509b02bc487e24133c9284b8cb980e.php 第 1279 行.
+NOTIC: [8] Use of undefined constant DEFAULT_THEME - assumed 'DEFAULT_THEME' /var/www/Thinkshu/Application/Runtime/Cache/Home/0c509b02bc487e24133c9284b8cb980e.php 第 1280 行.
+NOTIC: [8] Use of undefined constant DEFAULT_THEME - assumed 'DEFAULT_THEME' /var/www/Thinkshu/Application/Runtime/Cache/Home/0c509b02bc487e24133c9284b8cb980e.php 第 1281 行.
+NOTIC: [8] Use of undefined constant DEFAULT_THEME - assumed 'DEFAULT_THEME' /var/www/Thinkshu/Application/Runtime/Cache/Home/0c509b02bc487e24133c9284b8cb980e.php 第 1282 行.
+NOTIC: [8] Use of undefined constant DEFAULT_THEME - assumed 'DEFAULT_THEME' /var/www/Thinkshu/Application/Runtime/Cache/Home/0c509b02bc487e24133c9284b8cb980e.php 第 1283 行.
+NOTIC: [8] Use of undefined constant DEFAULT_THEME - assumed 'DEFAULT_THEME' /var/www/Thinkshu/Application/Runtime/Cache/Home/0c509b02bc487e24133c9284b8cb980e.php 第 1284 行.
+NOTIC: [8] Use of undefined constant DEFAULT_THEME - assumed 'DEFAULT_THEME' /var/www/Thinkshu/Application/Runtime/Cache/Home/0c509b02bc487e24133c9284b8cb980e.php 第 1285 行.
+NOTIC: [8] Use of undefined constant DEFAULT_THEME - assumed 'DEFAULT_THEME' /var/www/Thinkshu/Application/Runtime/Cache/Home/0c509b02bc487e24133c9284b8cb980e.php 第 1289 行.
+NOTIC: [8] Use of undefined constant DEFAULT_THEME - assumed 'DEFAULT_THEME' /var/www/Thinkshu/Application/Runtime/Cache/Home/0c509b02bc487e24133c9284b8cb980e.php 第 1290 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.024420s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.024499s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000058s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000123s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000067s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000143s ]
+
+[ 2015-11-22T20:30:21+08:00 ] ::1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000717s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000900s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000039s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000125s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008735s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008823s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000303s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000380s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000882s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000964s ]
+
+[ 2015-11-22T22:10:03+08:00 ] ::1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000498s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000650s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000724s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000046s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000127s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006395s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006459s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000197s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000269s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000671s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000737s ]
+

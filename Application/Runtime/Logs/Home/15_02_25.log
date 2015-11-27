@@ -1,0 +1,191 @@
+[ 2015-02-25T14:48:55+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001284s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000602s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000647s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000023s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000063s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011931s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011980s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000722s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000758s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000618s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000665s ]
+
+[ 2015-02-25T14:49:03+08:00 ] 127.0.0.1 /index.php/Home/User/article_new
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000268s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000486s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000534s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000182s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000289s ]
+NOTIC: [8] Use of undefined constant DEFAULT_THEME - assumed 'DEFAULT_THEME' D:\phpStudy\ThinkPHP\Application\Runtime\Cache\Home\2d7c6b42297932e71125002e66f7d077.php 第 10 行.
+NOTIC: [8] Use of undefined constant DEFAULT_THEME - assumed 'DEFAULT_THEME' D:\phpStudy\ThinkPHP\Application\Runtime\Cache\Home\2d7c6b42297932e71125002e66f7d077.php 第 11 行.
+NOTIC: [8] Use of undefined constant DEFAULT_THEME - assumed 'DEFAULT_THEME' D:\phpStudy\ThinkPHP\Application\Runtime\Cache\Home\2d7c6b42297932e71125002e66f7d077.php 第 14 行.
+NOTIC: [8] Use of undefined constant DEFAULT_THEME - assumed 'DEFAULT_THEME' D:\phpStudy\ThinkPHP\Application\Runtime\Cache\Home\2d7c6b42297932e71125002e66f7d077.php 第 25 行.
+NOTIC: [8] Use of undefined constant DEFAULT_THEME - assumed 'DEFAULT_THEME' D:\phpStudy\ThinkPHP\Application\Runtime\Cache\Home\2d7c6b42297932e71125002e66f7d077.php 第 26 行.
+NOTIC: [8] Use of undefined constant DEFAULT_THEME - assumed 'DEFAULT_THEME' D:\phpStudy\ThinkPHP\Application\Runtime\Cache\Home\2d7c6b42297932e71125002e66f7d077.php 第 27 行.
+NOTIC: [8] Use of undefined constant DEFAULT_THEME - assumed 'DEFAULT_THEME' D:\phpStudy\ThinkPHP\Application\Runtime\Cache\Home\2d7c6b42297932e71125002e66f7d077.php 第 30 行.
+NOTIC: [8] Use of undefined constant DEFAULT_THEME - assumed 'DEFAULT_THEME' D:\phpStudy\ThinkPHP\Application\Runtime\Cache\Home\2d7c6b42297932e71125002e66f7d077.php 第 37 行.
+NOTIC: [8] Use of undefined constant DEFAULT_THEME - assumed 'DEFAULT_THEME' D:\phpStudy\ThinkPHP\Application\Runtime\Cache\Home\2d7c6b42297932e71125002e66f7d077.php 第 42 行.
+NOTIC: [8] Use of undefined constant DEFAULT_THEME - assumed 'DEFAULT_THEME' D:\phpStudy\ThinkPHP\Application\Runtime\Cache\Home\2d7c6b42297932e71125002e66f7d077.php 第 43 行.
+NOTIC: [8] Use of undefined constant DEFAULT_THEME - assumed 'DEFAULT_THEME' D:\phpStudy\ThinkPHP\Application\Runtime\Cache\Home\2d7c6b42297932e71125002e66f7d077.php 第 216 行.
+NOTIC: [8] Use of undefined constant DEFAULT_THEME - assumed 'DEFAULT_THEME' D:\phpStudy\ThinkPHP\Application\Runtime\Cache\Home\2d7c6b42297932e71125002e66f7d077.php 第 233 行.
+NOTIC: [8] Use of undefined constant DEFAULT_THEME - assumed 'DEFAULT_THEME' D:\phpStudy\ThinkPHP\Application\Runtime\Cache\Home\2d7c6b42297932e71125002e66f7d077.php 第 250 行.
+NOTIC: [8] Use of undefined constant DEFAULT_THEME - assumed 'DEFAULT_THEME' D:\phpStudy\ThinkPHP\Application\Runtime\Cache\Home\2d7c6b42297932e71125002e66f7d077.php 第 276 行.
+NOTIC: [8] Use of undefined constant DEFAULT_THEME - assumed 'DEFAULT_THEME' D:\phpStudy\ThinkPHP\Application\Runtime\Cache\Home\2d7c6b42297932e71125002e66f7d077.php 第 725 行.
+NOTIC: [8] Use of undefined constant DEFAULT_THEME - assumed 'DEFAULT_THEME' D:\phpStudy\ThinkPHP\Application\Runtime\Cache\Home\2d7c6b42297932e71125002e66f7d077.php 第 732 行.
+NOTIC: [8] Use of undefined constant DEFAULT_THEME - assumed 'DEFAULT_THEME' D:\phpStudy\ThinkPHP\Application\Runtime\Cache\Home\2d7c6b42297932e71125002e66f7d077.php 第 737 行.
+NOTIC: [8] Use of undefined constant DEFAULT_THEME - assumed 'DEFAULT_THEME' D:\phpStudy\ThinkPHP\Application\Runtime\Cache\Home\2d7c6b42297932e71125002e66f7d077.php 第 739 行.
+NOTIC: [8] Use of undefined constant DEFAULT_THEME - assumed 'DEFAULT_THEME' D:\phpStudy\ThinkPHP\Application\Runtime\Cache\Home\2d7c6b42297932e71125002e66f7d077.php 第 740 行.
+NOTIC: [8] Use of undefined constant DEFAULT_THEME - assumed 'DEFAULT_THEME' D:\phpStudy\ThinkPHP\Application\Runtime\Cache\Home\2d7c6b42297932e71125002e66f7d077.php 第 745 行.
+NOTIC: [8] Use of undefined constant DEFAULT_THEME - assumed 'DEFAULT_THEME' D:\phpStudy\ThinkPHP\Application\Runtime\Cache\Home\2d7c6b42297932e71125002e66f7d077.php 第 748 行.
+NOTIC: [8] Use of undefined constant DEFAULT_THEME - assumed 'DEFAULT_THEME' D:\phpStudy\ThinkPHP\Application\Runtime\Cache\Home\2d7c6b42297932e71125002e66f7d077.php 第 749 行.
+NOTIC: [8] Use of undefined constant DEFAULT_THEME - assumed 'DEFAULT_THEME' D:\phpStudy\ThinkPHP\Application\Runtime\Cache\Home\2d7c6b42297932e71125002e66f7d077.php 第 750 行.
+NOTIC: [8] Use of undefined constant DEFAULT_THEME - assumed 'DEFAULT_THEME' D:\phpStudy\ThinkPHP\Application\Runtime\Cache\Home\2d7c6b42297932e71125002e66f7d077.php 第 751 行.
+NOTIC: [8] Use of undefined constant DEFAULT_THEME - assumed 'DEFAULT_THEME' D:\phpStudy\ThinkPHP\Application\Runtime\Cache\Home\2d7c6b42297932e71125002e66f7d077.php 第 752 行.
+NOTIC: [8] Use of undefined constant DEFAULT_THEME - assumed 'DEFAULT_THEME' D:\phpStudy\ThinkPHP\Application\Runtime\Cache\Home\2d7c6b42297932e71125002e66f7d077.php 第 753 行.
+NOTIC: [8] Use of undefined constant DEFAULT_THEME - assumed 'DEFAULT_THEME' D:\phpStudy\ThinkPHP\Application\Runtime\Cache\Home\2d7c6b42297932e71125002e66f7d077.php 第 754 行.
+NOTIC: [8] Use of undefined constant DEFAULT_THEME - assumed 'DEFAULT_THEME' D:\phpStudy\ThinkPHP\Application\Runtime\Cache\Home\2d7c6b42297932e71125002e66f7d077.php 第 755 行.
+NOTIC: [8] Use of undefined constant DEFAULT_THEME - assumed 'DEFAULT_THEME' D:\phpStudy\ThinkPHP\Application\Runtime\Cache\Home\2d7c6b42297932e71125002e66f7d077.php 第 759 行.
+NOTIC: [8] Use of undefined constant DEFAULT_THEME - assumed 'DEFAULT_THEME' D:\phpStudy\ThinkPHP\Application\Runtime\Cache\Home\2d7c6b42297932e71125002e66f7d077.php 第 760 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015931s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015975s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000232s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000267s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000445s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000492s ]
+
+[ 2015-02-25T14:49:29+08:00 ] 127.0.0.1 /index.php/Home/User/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000333s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000354s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000395s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000179s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000228s ]
+NOTIC: [8] Use of undefined constant DEFAULT_THEME - assumed 'DEFAULT_THEME' D:\phpStudy\ThinkPHP\Application\Runtime\Cache\Home\0c509b02bc487e24133c9284b8cb980e.php 第 10 行.
+NOTIC: [8] Use of undefined constant DEFAULT_THEME - assumed 'DEFAULT_THEME' D:\phpStudy\ThinkPHP\Application\Runtime\Cache\Home\0c509b02bc487e24133c9284b8cb980e.php 第 11 行.
+NOTIC: [8] Use of undefined constant DEFAULT_THEME - assumed 'DEFAULT_THEME' D:\phpStudy\ThinkPHP\Application\Runtime\Cache\Home\0c509b02bc487e24133c9284b8cb980e.php 第 14 行.
+NOTIC: [8] Use of undefined constant DEFAULT_THEME - assumed 'DEFAULT_THEME' D:\phpStudy\ThinkPHP\Application\Runtime\Cache\Home\0c509b02bc487e24133c9284b8cb980e.php 第 25 行.
+NOTIC: [8] Use of undefined constant DEFAULT_THEME - assumed 'DEFAULT_THEME' D:\phpStudy\ThinkPHP\Application\Runtime\Cache\Home\0c509b02bc487e24133c9284b8cb980e.php 第 26 行.
+NOTIC: [8] Use of undefined constant DEFAULT_THEME - assumed 'DEFAULT_THEME' D:\phpStudy\ThinkPHP\Application\Runtime\Cache\Home\0c509b02bc487e24133c9284b8cb980e.php 第 27 行.
+NOTIC: [8] Use of undefined constant DEFAULT_THEME - assumed 'DEFAULT_THEME' D:\phpStudy\ThinkPHP\Application\Runtime\Cache\Home\0c509b02bc487e24133c9284b8cb980e.php 第 30 行.
+NOTIC: [8] Use of undefined constant DEFAULT_THEME - assumed 'DEFAULT_THEME' D:\phpStudy\ThinkPHP\Application\Runtime\Cache\Home\0c509b02bc487e24133c9284b8cb980e.php 第 37 行.
+NOTIC: [8] Use of undefined constant DEFAULT_THEME - assumed 'DEFAULT_THEME' D:\phpStudy\ThinkPHP\Application\Runtime\Cache\Home\0c509b02bc487e24133c9284b8cb980e.php 第 42 行.
+NOTIC: [8] Use of undefined constant DEFAULT_THEME - assumed 'DEFAULT_THEME' D:\phpStudy\ThinkPHP\Application\Runtime\Cache\Home\0c509b02bc487e24133c9284b8cb980e.php 第 43 行.
+NOTIC: [8] Use of undefined constant DEFAULT_THEME - assumed 'DEFAULT_THEME' D:\phpStudy\ThinkPHP\Application\Runtime\Cache\Home\0c509b02bc487e24133c9284b8cb980e.php 第 216 行.
+NOTIC: [8] Use of undefined constant DEFAULT_THEME - assumed 'DEFAULT_THEME' D:\phpStudy\ThinkPHP\Application\Runtime\Cache\Home\0c509b02bc487e24133c9284b8cb980e.php 第 233 行.
+NOTIC: [8] Use of undefined constant DEFAULT_THEME - assumed 'DEFAULT_THEME' D:\phpStudy\ThinkPHP\Application\Runtime\Cache\Home\0c509b02bc487e24133c9284b8cb980e.php 第 250 行.
+NOTIC: [8] Use of undefined constant DEFAULT_THEME - assumed 'DEFAULT_THEME' D:\phpStudy\ThinkPHP\Application\Runtime\Cache\Home\0c509b02bc487e24133c9284b8cb980e.php 第 276 行.
+NOTIC: [8] Undefined variable: menu D:\phpStudy\ThinkPHP\Application\Runtime\Cache\Home\0c509b02bc487e24133c9284b8cb980e.php 第 368 行.
+NOTIC: [8] Undefined variable: menu D:\phpStudy\ThinkPHP\Application\Runtime\Cache\Home\0c509b02bc487e24133c9284b8cb980e.php 第 377 行.
+NOTIC: [8] Undefined variable: menu D:\phpStudy\ThinkPHP\Application\Runtime\Cache\Home\0c509b02bc487e24133c9284b8cb980e.php 第 384 行.
+NOTIC: [8] Undefined variable: menu D:\phpStudy\ThinkPHP\Application\Runtime\Cache\Home\0c509b02bc487e24133c9284b8cb980e.php 第 391 行.
+NOTIC: [8] Use of undefined constant DEFAULT_THEME - assumed 'DEFAULT_THEME' D:\phpStudy\ThinkPHP\Application\Runtime\Cache\Home\0c509b02bc487e24133c9284b8cb980e.php 第 1032 行.
+NOTIC: [8] Use of undefined constant DEFAULT_THEME - assumed 'DEFAULT_THEME' D:\phpStudy\ThinkPHP\Application\Runtime\Cache\Home\0c509b02bc487e24133c9284b8cb980e.php 第 1085 行.
+NOTIC: [8] Use of undefined constant DEFAULT_THEME - assumed 'DEFAULT_THEME' D:\phpStudy\ThinkPHP\Application\Runtime\Cache\Home\0c509b02bc487e24133c9284b8cb980e.php 第 1138 行.
+NOTIC: [8] Use of undefined constant DEFAULT_THEME - assumed 'DEFAULT_THEME' D:\phpStudy\ThinkPHP\Application\Runtime\Cache\Home\0c509b02bc487e24133c9284b8cb980e.php 第 1191 行.
+NOTIC: [8] Use of undefined constant DEFAULT_THEME - assumed 'DEFAULT_THEME' D:\phpStudy\ThinkPHP\Application\Runtime\Cache\Home\0c509b02bc487e24133c9284b8cb980e.php 第 1212 行.
+NOTIC: [8] Use of undefined constant DEFAULT_THEME - assumed 'DEFAULT_THEME' D:\phpStudy\ThinkPHP\Application\Runtime\Cache\Home\0c509b02bc487e24133c9284b8cb980e.php 第 1233 行.
+NOTIC: [8] Use of undefined constant DEFAULT_THEME - assumed 'DEFAULT_THEME' D:\phpStudy\ThinkPHP\Application\Runtime\Cache\Home\0c509b02bc487e24133c9284b8cb980e.php 第 1254 行.
+NOTIC: [8] Use of undefined constant DEFAULT_THEME - assumed 'DEFAULT_THEME' D:\phpStudy\ThinkPHP\Application\Runtime\Cache\Home\0c509b02bc487e24133c9284b8cb980e.php 第 1275 行.
+NOTIC: [8] Use of undefined constant DEFAULT_THEME - assumed 'DEFAULT_THEME' D:\phpStudy\ThinkPHP\Application\Runtime\Cache\Home\0c509b02bc487e24133c9284b8cb980e.php 第 1312 行.
+NOTIC: [8] Use of undefined constant DEFAULT_THEME - assumed 'DEFAULT_THEME' D:\phpStudy\ThinkPHP\Application\Runtime\Cache\Home\0c509b02bc487e24133c9284b8cb980e.php 第 1368 行.
+NOTIC: [8] Use of undefined constant DEFAULT_THEME - assumed 'DEFAULT_THEME' D:\phpStudy\ThinkPHP\Application\Runtime\Cache\Home\0c509b02bc487e24133c9284b8cb980e.php 第 1402 行.
+NOTIC: [8] Use of undefined constant DEFAULT_THEME - assumed 'DEFAULT_THEME' D:\phpStudy\ThinkPHP\Application\Runtime\Cache\Home\0c509b02bc487e24133c9284b8cb980e.php 第 1436 行.
+NOTIC: [8] Use of undefined constant DEFAULT_THEME - assumed 'DEFAULT_THEME' D:\phpStudy\ThinkPHP\Application\Runtime\Cache\Home\0c509b02bc487e24133c9284b8cb980e.php 第 1503 行.
+NOTIC: [8] Use of undefined constant DEFAULT_THEME - assumed 'DEFAULT_THEME' D:\phpStudy\ThinkPHP\Application\Runtime\Cache\Home\0c509b02bc487e24133c9284b8cb980e.php 第 1527 行.
+NOTIC: [8] Use of undefined constant DEFAULT_THEME - assumed 'DEFAULT_THEME' D:\phpStudy\ThinkPHP\Application\Runtime\Cache\Home\0c509b02bc487e24133c9284b8cb980e.php 第 1551 行.
+NOTIC: [8] Use of undefined constant DEFAULT_THEME - assumed 'DEFAULT_THEME' D:\phpStudy\ThinkPHP\Application\Runtime\Cache\Home\0c509b02bc487e24133c9284b8cb980e.php 第 1576 行.
+NOTIC: [8] Use of undefined constant DEFAULT_THEME - assumed 'DEFAULT_THEME' D:\phpStudy\ThinkPHP\Application\Runtime\Cache\Home\0c509b02bc487e24133c9284b8cb980e.php 第 1600 行.
+NOTIC: [8] Use of undefined constant DEFAULT_THEME - assumed 'DEFAULT_THEME' D:\phpStudy\ThinkPHP\Application\Runtime\Cache\Home\0c509b02bc487e24133c9284b8cb980e.php 第 1717 行.
+NOTIC: [8] Use of undefined constant DEFAULT_THEME - assumed 'DEFAULT_THEME' D:\phpStudy\ThinkPHP\Application\Runtime\Cache\Home\0c509b02bc487e24133c9284b8cb980e.php 第 1724 行.
+NOTIC: [8] Use of undefined constant DEFAULT_THEME - assumed 'DEFAULT_THEME' D:\phpStudy\ThinkPHP\Application\Runtime\Cache\Home\0c509b02bc487e24133c9284b8cb980e.php 第 1729 行.
+NOTIC: [8] Use of undefined constant DEFAULT_THEME - assumed 'DEFAULT_THEME' D:\phpStudy\ThinkPHP\Application\Runtime\Cache\Home\0c509b02bc487e24133c9284b8cb980e.php 第 1731 行.
+NOTIC: [8] Use of undefined constant DEFAULT_THEME - assumed 'DEFAULT_THEME' D:\phpStudy\ThinkPHP\Application\Runtime\Cache\Home\0c509b02bc487e24133c9284b8cb980e.php 第 1732 行.
+NOTIC: [8] Use of undefined constant DEFAULT_THEME - assumed 'DEFAULT_THEME' D:\phpStudy\ThinkPHP\Application\Runtime\Cache\Home\0c509b02bc487e24133c9284b8cb980e.php 第 1737 行.
+NOTIC: [8] Use of undefined constant DEFAULT_THEME - assumed 'DEFAULT_THEME' D:\phpStudy\ThinkPHP\Application\Runtime\Cache\Home\0c509b02bc487e24133c9284b8cb980e.php 第 1740 行.
+NOTIC: [8] Use of undefined constant DEFAULT_THEME - assumed 'DEFAULT_THEME' D:\phpStudy\ThinkPHP\Application\Runtime\Cache\Home\0c509b02bc487e24133c9284b8cb980e.php 第 1741 行.
+NOTIC: [8] Use of undefined constant DEFAULT_THEME - assumed 'DEFAULT_THEME' D:\phpStudy\ThinkPHP\Application\Runtime\Cache\Home\0c509b02bc487e24133c9284b8cb980e.php 第 1742 行.
+NOTIC: [8] Use of undefined constant DEFAULT_THEME - assumed 'DEFAULT_THEME' D:\phpStudy\ThinkPHP\Application\Runtime\Cache\Home\0c509b02bc487e24133c9284b8cb980e.php 第 1743 行.
+NOTIC: [8] Use of undefined constant DEFAULT_THEME - assumed 'DEFAULT_THEME' D:\phpStudy\ThinkPHP\Application\Runtime\Cache\Home\0c509b02bc487e24133c9284b8cb980e.php 第 1744 行.
+NOTIC: [8] Use of undefined constant DEFAULT_THEME - assumed 'DEFAULT_THEME' D:\phpStudy\ThinkPHP\Application\Runtime\Cache\Home\0c509b02bc487e24133c9284b8cb980e.php 第 1745 行.
+NOTIC: [8] Use of undefined constant DEFAULT_THEME - assumed 'DEFAULT_THEME' D:\phpStudy\ThinkPHP\Application\Runtime\Cache\Home\0c509b02bc487e24133c9284b8cb980e.php 第 1746 行.
+NOTIC: [8] Use of undefined constant DEFAULT_THEME - assumed 'DEFAULT_THEME' D:\phpStudy\ThinkPHP\Application\Runtime\Cache\Home\0c509b02bc487e24133c9284b8cb980e.php 第 1747 行.
+NOTIC: [8] Use of undefined constant DEFAULT_THEME - assumed 'DEFAULT_THEME' D:\phpStudy\ThinkPHP\Application\Runtime\Cache\Home\0c509b02bc487e24133c9284b8cb980e.php 第 1751 行.
+NOTIC: [8] Use of undefined constant DEFAULT_THEME - assumed 'DEFAULT_THEME' D:\phpStudy\ThinkPHP\Application\Runtime\Cache\Home\0c509b02bc487e24133c9284b8cb980e.php 第 1752 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.019804s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.019847s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000248s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000286s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000424s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000480s ]
+
+[ 2015-02-25T14:49:33+08:00 ] 127.0.0.1 /index.php/Home/User/article_new
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000289s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000361s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000402s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000101s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000140s ]
+NOTIC: [8] Use of undefined constant DEFAULT_THEME - assumed 'DEFAULT_THEME' D:\phpStudy\ThinkPHP\Application\Runtime\Cache\Home\2d7c6b42297932e71125002e66f7d077.php 第 10 行.
+NOTIC: [8] Use of undefined constant DEFAULT_THEME - assumed 'DEFAULT_THEME' D:\phpStudy\ThinkPHP\Application\Runtime\Cache\Home\2d7c6b42297932e71125002e66f7d077.php 第 11 行.
+NOTIC: [8] Use of undefined constant DEFAULT_THEME - assumed 'DEFAULT_THEME' D:\phpStudy\ThinkPHP\Application\Runtime\Cache\Home\2d7c6b42297932e71125002e66f7d077.php 第 14 行.
+NOTIC: [8] Use of undefined constant DEFAULT_THEME - assumed 'DEFAULT_THEME' D:\phpStudy\ThinkPHP\Application\Runtime\Cache\Home\2d7c6b42297932e71125002e66f7d077.php 第 25 行.
+NOTIC: [8] Use of undefined constant DEFAULT_THEME - assumed 'DEFAULT_THEME' D:\phpStudy\ThinkPHP\Application\Runtime\Cache\Home\2d7c6b42297932e71125002e66f7d077.php 第 26 行.
+NOTIC: [8] Use of undefined constant DEFAULT_THEME - assumed 'DEFAULT_THEME' D:\phpStudy\ThinkPHP\Application\Runtime\Cache\Home\2d7c6b42297932e71125002e66f7d077.php 第 27 行.
+NOTIC: [8] Use of undefined constant DEFAULT_THEME - assumed 'DEFAULT_THEME' D:\phpStudy\ThinkPHP\Application\Runtime\Cache\Home\2d7c6b42297932e71125002e66f7d077.php 第 30 行.
+NOTIC: [8] Use of undefined constant DEFAULT_THEME - assumed 'DEFAULT_THEME' D:\phpStudy\ThinkPHP\Application\Runtime\Cache\Home\2d7c6b42297932e71125002e66f7d077.php 第 37 行.
+NOTIC: [8] Use of undefined constant DEFAULT_THEME - assumed 'DEFAULT_THEME' D:\phpStudy\ThinkPHP\Application\Runtime\Cache\Home\2d7c6b42297932e71125002e66f7d077.php 第 42 行.
+NOTIC: [8] Use of undefined constant DEFAULT_THEME - assumed 'DEFAULT_THEME' D:\phpStudy\ThinkPHP\Application\Runtime\Cache\Home\2d7c6b42297932e71125002e66f7d077.php 第 43 行.
+NOTIC: [8] Use of undefined constant DEFAULT_THEME - assumed 'DEFAULT_THEME' D:\phpStudy\ThinkPHP\Application\Runtime\Cache\Home\2d7c6b42297932e71125002e66f7d077.php 第 216 行.
+NOTIC: [8] Use of undefined constant DEFAULT_THEME - assumed 'DEFAULT_THEME' D:\phpStudy\ThinkPHP\Application\Runtime\Cache\Home\2d7c6b42297932e71125002e66f7d077.php 第 233 行.
+NOTIC: [8] Use of undefined constant DEFAULT_THEME - assumed 'DEFAULT_THEME' D:\phpStudy\ThinkPHP\Application\Runtime\Cache\Home\2d7c6b42297932e71125002e66f7d077.php 第 250 行.
+NOTIC: [8] Use of undefined constant DEFAULT_THEME - assumed 'DEFAULT_THEME' D:\phpStudy\ThinkPHP\Application\Runtime\Cache\Home\2d7c6b42297932e71125002e66f7d077.php 第 276 行.
+NOTIC: [8] Use of undefined constant DEFAULT_THEME - assumed 'DEFAULT_THEME' D:\phpStudy\ThinkPHP\Application\Runtime\Cache\Home\2d7c6b42297932e71125002e66f7d077.php 第 725 行.
+NOTIC: [8] Use of undefined constant DEFAULT_THEME - assumed 'DEFAULT_THEME' D:\phpStudy\ThinkPHP\Application\Runtime\Cache\Home\2d7c6b42297932e71125002e66f7d077.php 第 732 行.
+NOTIC: [8] Use of undefined constant DEFAULT_THEME - assumed 'DEFAULT_THEME' D:\phpStudy\ThinkPHP\Application\Runtime\Cache\Home\2d7c6b42297932e71125002e66f7d077.php 第 737 行.
+NOTIC: [8] Use of undefined constant DEFAULT_THEME - assumed 'DEFAULT_THEME' D:\phpStudy\ThinkPHP\Application\Runtime\Cache\Home\2d7c6b42297932e71125002e66f7d077.php 第 739 行.
+NOTIC: [8] Use of undefined constant DEFAULT_THEME - assumed 'DEFAULT_THEME' D:\phpStudy\ThinkPHP\Application\Runtime\Cache\Home\2d7c6b42297932e71125002e66f7d077.php 第 740 行.
+NOTIC: [8] Use of undefined constant DEFAULT_THEME - assumed 'DEFAULT_THEME' D:\phpStudy\ThinkPHP\Application\Runtime\Cache\Home\2d7c6b42297932e71125002e66f7d077.php 第 745 行.
+NOTIC: [8] Use of undefined constant DEFAULT_THEME - assumed 'DEFAULT_THEME' D:\phpStudy\ThinkPHP\Application\Runtime\Cache\Home\2d7c6b42297932e71125002e66f7d077.php 第 748 行.
+NOTIC: [8] Use of undefined constant DEFAULT_THEME - assumed 'DEFAULT_THEME' D:\phpStudy\ThinkPHP\Application\Runtime\Cache\Home\2d7c6b42297932e71125002e66f7d077.php 第 749 行.
+NOTIC: [8] Use of undefined constant DEFAULT_THEME - assumed 'DEFAULT_THEME' D:\phpStudy\ThinkPHP\Application\Runtime\Cache\Home\2d7c6b42297932e71125002e66f7d077.php 第 750 行.
+NOTIC: [8] Use of undefined constant DEFAULT_THEME - assumed 'DEFAULT_THEME' D:\phpStudy\ThinkPHP\Application\Runtime\Cache\Home\2d7c6b42297932e71125002e66f7d077.php 第 751 行.
+NOTIC: [8] Use of undefined constant DEFAULT_THEME - assumed 'DEFAULT_THEME' D:\phpStudy\ThinkPHP\Application\Runtime\Cache\Home\2d7c6b42297932e71125002e66f7d077.php 第 752 行.
+NOTIC: [8] Use of undefined constant DEFAULT_THEME - assumed 'DEFAULT_THEME' D:\phpStudy\ThinkPHP\Application\Runtime\Cache\Home\2d7c6b42297932e71125002e66f7d077.php 第 753 行.
+NOTIC: [8] Use of undefined constant DEFAULT_THEME - assumed 'DEFAULT_THEME' D:\phpStudy\ThinkPHP\Application\Runtime\Cache\Home\2d7c6b42297932e71125002e66f7d077.php 第 754 行.
+NOTIC: [8] Use of undefined constant DEFAULT_THEME - assumed 'DEFAULT_THEME' D:\phpStudy\ThinkPHP\Application\Runtime\Cache\Home\2d7c6b42297932e71125002e66f7d077.php 第 755 行.
+NOTIC: [8] Use of undefined constant DEFAULT_THEME - assumed 'DEFAULT_THEME' D:\phpStudy\ThinkPHP\Application\Runtime\Cache\Home\2d7c6b42297932e71125002e66f7d077.php 第 759 行.
+NOTIC: [8] Use of undefined constant DEFAULT_THEME - assumed 'DEFAULT_THEME' D:\phpStudy\ThinkPHP\Application\Runtime\Cache\Home\2d7c6b42297932e71125002e66f7d077.php 第 760 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011809s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011847s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000203s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000237s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000432s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000470s ]
+

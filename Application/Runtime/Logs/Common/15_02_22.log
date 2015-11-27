@@ -1,0 +1,156 @@
+[ 2015-02-22T13:38:28+08:00 ] 127.0.0.1 /index.php/assets/css/bootstrap.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000417s ]
+ERR: 无法加载模块:Assets
+
+[ 2015-02-22T13:38:28+08:00 ] 127.0.0.1 /index.php/assets/css/font-awesome.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000402s ]
+ERR: 无法加载模块:Assets
+
+[ 2015-02-22T13:38:28+08:00 ] 127.0.0.1 /index.php/assets/css/ace.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000418s ]
+ERR: 无法加载模块:Assets
+
+[ 2015-02-22T13:38:28+08:00 ] 127.0.0.1 /index.php/assets/css/ace-rtl.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000388s ]
+ERR: 无法加载模块:Assets
+
+[ 2015-02-22T13:38:28+08:00 ] 127.0.0.1 /index.php/assets/css/ace-skins.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000608s ]
+ERR: 无法加载模块:Assets
+
+[ 2015-02-22T13:38:28+08:00 ] 127.0.0.1 /index.php/assets/js/ace-extra.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000435s ]
+ERR: 无法加载模块:Assets
+
+[ 2015-02-22T13:38:28+08:00 ] 127.0.0.1 /index.php/assets/avatars/avatar.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000863s ]
+ERR: 无法加载模块:Assets
+
+[ 2015-02-22T13:38:28+08:00 ] 127.0.0.1 /index.php/assets/avatars/user.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000465s ]
+ERR: 无法加载模块:Assets
+
+[ 2015-02-22T13:38:28+08:00 ] 127.0.0.1 /index.php/assets/avatars/avatar3.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000407s ]
+ERR: 无法加载模块:Assets
+
+[ 2015-02-22T13:38:28+08:00 ] 127.0.0.1 /index.php/assets/avatars/avatar1.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000511s ]
+ERR: 无法加载模块:Assets
+
+[ 2015-02-22T13:38:28+08:00 ] 127.0.0.1 /index.php/assets/avatars/avatar5.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000478s ]
+ERR: 无法加载模块:Assets
+
+[ 2015-02-22T13:38:28+08:00 ] 127.0.0.1 /index.php/assets/avatars/avatar4.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000393s ]
+ERR: 无法加载模块:Assets
+
+[ 2015-02-22T13:38:28+08:00 ] 127.0.0.1 /index.php/assets/avatars/avatar2.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000542s ]
+ERR: 无法加载模块:Assets
+
+[ 2015-02-22T13:38:28+08:00 ] 127.0.0.1 /index.php/assets/js/jquery.ui.touch-punch.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000372s ]
+ERR: 无法加载模块:Assets
+
+[ 2015-02-22T13:38:28+08:00 ] 127.0.0.1 /index.php/assets/js/jquery.sparkline.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000404s ]
+ERR: 无法加载模块:Assets
+
+[ 2015-02-22T13:38:28+08:00 ] 127.0.0.1 /index.php/assets/js/jquery.slimscroll.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000397s ]
+ERR: 无法加载模块:Assets
+
+[ 2015-02-22T13:38:28+08:00 ] 127.0.0.1 /index.php/assets/js/flot/jquery.flot.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000389s ]
+ERR: 无法加载模块:Assets
+
+[ 2015-02-22T13:38:28+08:00 ] 127.0.0.1 /index.php/assets/js/flot/jquery.flot.pie.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000404s ]
+ERR: 无法加载模块:Assets
+
+[ 2015-02-22T13:38:28+08:00 ] 127.0.0.1 /index.php/assets/js/flot/jquery.flot.resize.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000369s ]
+ERR: 无法加载模块:Assets
+
+[ 2015-02-22T13:38:28+08:00 ] 127.0.0.1 /index.php/assets/js/ace-elements.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000389s ]
+ERR: 无法加载模块:Assets
+
+[ 2015-02-22T13:38:28+08:00 ] 127.0.0.1 /index.php/assets/js/jquery.easy-pie-chart.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000436s ]
+ERR: 无法加载模块:Assets
+
+[ 2015-02-22T13:38:28+08:00 ] 127.0.0.1 /index.php/assets/js/jquery-ui-1.10.3.custom.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000386s ]
+ERR: 无法加载模块:Assets
+
+[ 2015-02-22T13:38:28+08:00 ] 127.0.0.1 /index.php/assets/js/ace.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000346s ]
+ERR: 无法加载模块:Assets
+
+[ 2015-02-22T13:38:29+08:00 ] 127.0.0.1 /index.php/assets/js/bootstrap.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000686s ]
+ERR: 无法加载模块:Assets
+
+[ 2015-02-22T13:38:29+08:00 ] 127.0.0.1 /index.php/assets/js/typeahead-bs2.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000699s ]
+ERR: 无法加载模块:Assets
+
+[ 2015-02-22T13:38:49+08:00 ] 127.0.0.1 /index.php/assets/js/jquery-2.0.3.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000634s ]
+ERR: 无法加载模块:Assets
+

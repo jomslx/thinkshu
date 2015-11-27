@@ -1,0 +1,18 @@
+[ 2015-11-22T03:20:45+08:00 ] 127.0.0.1 /index.php/user/article
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000193s ]
+ERR: 无法加载模块:User
+
+[ 2015-11-22T03:25:26+08:00 ] 127.0.0.1 /index.php/user
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000166s ]
+ERR: 无法加载模块:User
+
+[ 2015-11-22T03:25:31+08:00 ] 127.0.0.1 /index.php/User
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000190s ]
+ERR: 无法加载模块:User
+
