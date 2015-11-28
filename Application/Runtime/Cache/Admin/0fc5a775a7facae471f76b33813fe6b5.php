@@ -589,7 +589,7 @@
 							<h1><span class="active"><?php echo ($title); ?></span>
 								<small>
 									<i class="icon-hand-right green"></i>
-									<a href="#modal-form" role="button" class="blue" data-toggle="modal">新增一个分类</a>
+									<a href="./catedit" data-target="#modal-form" role="button" class="blue" data-toggle="modal">新增一个分类</a>
 								</small>
 							</h1>
 						</div><!-- /.page-header -->
@@ -616,11 +616,11 @@
 										</thead>
 										<tbody>
 
-										<tr>
+										<?php if(is_array($list)): $i = 0; $__LIST__ = $list;if( count($__LIST__)==0 ) : echo "" ;else: foreach($__LIST__ as $key=>$vo): $mod = ($i % 2 );++$i;?><tr>
 											<td class="center">
-												<a href="#">1</a>
+												<a href="#"><?php echo ($vo["classid"]); ?></a>
 											</td>
-											<td>类名1</td>
+											<td><?php echo ($vo["classname"]); ?></td>
 											<td class="center">3,330条</td>
 											<td>
 
@@ -633,24 +633,23 @@
 
 											<td>
 												<div class="btn-group">
-													<button class="btn btn-minier btn-danger">新增子分类 </button>
-													<button class="btn btn-minier btn-pink">基本设置 </button>
+													<a href="./catedit?id=<?php echo ($vo["classid"]); ?>" data-target="#modal-form" role="button" data-toggle="modal" class="btn btn-minier btn-pink">基本设置 </a>
 													<button class="btn btn-minier btn-success">SEO设置 </button>
 													<button class="btn btn-minier">权限设置 </button>
 
-													<button class="btn btn-minier btn-danger">
+													<a href="<?php echo U('Article/catdel');?>?id=<?php echo ($vo["classid"]); ?>" class="btn btn-minier btn-danger" onclick="if(!confirm('删除将不可恢复，你确定吗?')){return false;}">
 														<i class="icon-trash bigger-120"></i>
 														删除
-													</button>
+													</a>
 
 												</div>
 
 											</td>
 
 											<td class="hidden-480">
-												<input class="input-sm" type="text" id="form-field-4" placeholder=".input-sm">
+												<input class="input-sm" type="text" id="form-field-4" placeholder="数字越大越靠前" value="<?php echo ($vo["classorder"]); ?>">
 											</td>
-										</tr>
+										</tr><?php endforeach; endif; else: echo "" ;endif; ?>
 
 										</tbody>
 									</table>
@@ -660,77 +659,7 @@
                                 
                                 <!-- /row -->
 								<div id="modal-form" class="modal" tabindex="-1">
-									<form name="FormPost" id="FormPost" method="post">
-									<div class="modal-dialog">
-										<div class="modal-content">
-											<div class="modal-header">
-												<button type="button" class="close" data-dismiss="modal">&times;</button>
-												<h4 class="blue bigger">新增一个分类</h4>
-											</div>
 
-											<div class="modal-body overflow-visible">
-												<div class="row">
-
-													<div class="col-xs-12">
-														<div class="form-group row">
-
-															<div class="col-lg-4 col-md-4">
-															<label for="form-field-select-3">所属分类</label>
-
-															<div>
-																<select class="col-xs-12">
-																	<option value="0">主分类</option>
-																	<option value="AL">Alabama</option>
-																	<option value="AK">Alaska</option>
-																	<option value="AZ">Arizona</option>
-																</select>
-															</div>
-															</div>
-
-															<div class="col-lg-5 col-md-5">
-																<label for="form-field-username">分类名</label>
-																<div><input class="col-xs-12" type="text" id="form-field-username" placeholder="分类名" value="" /></div>
-															</div>
-
-															<div class="col-lg-3 col-md-3">
-																<label for="form-field-username">分类排序</label>
-																<div><input class="col-xs-12" type="text" id="form-field-username" placeholder="分类排序" value="" /></div>
-															</div>
-														</div>
-
-														<div class="form-group row">
-
-															<div class="col-lg-6 col-md-6">
-																<label for="form-field-username">分类页模板</label>
-																<input class="col-xs-12" type="text" id="form-field-username" placeholder="分类页模板" value="" />
-															</div>
-
-
-															<div class="col-lg-6 col-md-6">
-																<label for="form-field-username">内容页模板</label>
-																<input class="col-xs-12" type="text" id="form-field-username" placeholder="内容页模板" value="" />
-															</div>
-														</div>
-
-
-													</div>
-												</div>
-											</div>
-
-											<div class="modal-footer">
-												<button class="btn btn-sm" data-dismiss="modal">
-													<i class="icon-remove"></i>
-													Cancel
-												</button>
-
-												<button class="btn btn-sm btn-primary" type="submit">
-													<i class="icon-ok"></i>
-													Save
-												</button>
-											</div>
-										</div>
-									</div>
-									</form>
 								</div>
 
 								<!-- PAGE CONTENT ENDS -->
@@ -861,6 +790,10 @@
 						}
 					});
 				});
+			});
+
+			$('body').on('hidden.bs.modal', '.modal', function () {
+				$(this).removeData('bs.modal');
 			});
 
 		</script>

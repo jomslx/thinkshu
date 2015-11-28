@@ -1,0 +1,71 @@
+<form name="FormPost" id="FormPost" method="post">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal">&times;</button>
+                <h4 class="blue bigger">新增一个分类</h4>
+            </div>
+
+            <div class="modal-body overflow-visible">
+                <div class="row">
+
+                    <div class="col-xs-12">
+                        <div class="form-group row">
+
+                            <div class="col-lg-4 col-md-4">
+                                <input name="classid" type="hidden" value="{$cat.classid|default=0}">
+                                <label for="parentid">所属分类</label>
+                                <div>
+                                    <select name="parentid" id="parentid" class="col-xs-12">
+                                        <option value="0">主分类</option>
+                                        [foreach name="cattree" item="vo"]
+                                        <option value="{$vo.classid}" [php] if($vo[classid]==$cat[parentid])echo 'selected';[/php]>{$vo.classname}</option>
+                                        [/foreach]
+                                    </select>
+                                </div>
+                            </div>
+
+                            <div class="col-lg-5 col-md-5">
+                                <label for="classname">分类名</label>
+                                <div><input name="classname" class="col-xs-12" type="text" id="classname" placeholder="分类名" value="{$cat.classname}" /></div>
+                            </div>
+
+                            <div class="col-lg-3 col-md-3">
+                                <label for="classorder">分类排序</label>
+                                <div><input name="classorder" class="col-xs-12" type="text" id="classorder" placeholder="分类排序" value="{$cat.classorder|default='0'}" /></div>
+                            </div>
+                        </div>
+
+                        <div class="form-group row">
+
+                            <div class="col-lg-6 col-md-6">
+                                <label for="classtpl">分类页模板</label>
+                                <input name="classtpl" class="col-xs-12" type="text" id="classtpl" placeholder="分类页模板" value="{$cat.classtpl}" />
+                            </div>
+
+
+                            <div class="col-lg-6 col-md-6">
+                                <label for="contenttpl">内容页模板</label>
+                                <input name="contenttpl" class="col-xs-12" type="text" id="contenttpl" placeholder="内容页模板" value="{$cat.contenttpl}" />
+                            </div>
+                        </div>
+
+
+                    </div>
+                </div>
+            </div>
+
+            <div class="modal-footer">
+                <button class="btn btn-sm" data-dismiss="modal">
+                    <i class="icon-remove"></i>
+                    Cancel
+                </button>
+
+                <button class="btn btn-sm btn-primary" type="submit" name="submit" value="{$act}">
+                    <i class="icon-ok"></i>
+                    Save
+                </button>
+            </div>
+        </div>
+    </div>
+</form>
