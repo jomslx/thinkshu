@@ -8,6 +8,9 @@ class ArticleController extends Controller {
 	
     public function artadd(){
 
+        $catlist = M('art_class')->field('classid,parentid,classname,classorder')->select();
+        $catlist = self::cattree($catlist);
+        $this->assign('catlist',$catlist);
 		$this->assign('title',"我要投稿");
     	$this->display();
     }

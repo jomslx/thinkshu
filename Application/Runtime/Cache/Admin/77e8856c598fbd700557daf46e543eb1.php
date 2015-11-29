@@ -592,7 +592,7 @@
 						</div><!-- /.page-header -->
 
 						<div class="row">
-							<div class="col-xs-12">
+							<div class="col-xs-9">
 								<!-- PAGE CONTENT BEGINS -->
 
 								<div class="row">
@@ -600,18 +600,7 @@
 								  <div class="vspace-sm"></div>
 
 									<form class="form-horizontal" role="form">
-									<div class="form-group">
-										<label class="col-sm-3 control-label no-padding-right" for="form-field-1"> 文章类别 </label>
 
-										<div class="col-sm-9">
-										  <select class="form-control" id="form-field-select-1" style="width:400px">
-												<option value="">&nbsp;</option>
-												<option value="AL">Alabama</option>
-												<option value="AK">Alaska</option>
-												<option value="AZ">Arizona</option>
-											</select>
-										</div>
-									</div>
                                     
 									<div class="form-group">
 										<label class="col-sm-3 control-label no-padding-right" for="form-field-1"> 文章名称 </label>
@@ -646,14 +635,7 @@
 										</div>
 									</div>
                                     
-									<div class="form-group">
-										<label class="col-sm-3 control-label no-padding-right" for="form-field-1"> 关键字 </label>
 
-										<div class="tags"><input type="text" name="tags" id="form-field-tags" value="Tag Input Control" placeholder="Enter tags ..." style="display: none; "><input type="text" placeholder="Enter tags ...">
-                                         
-                                        </div>
-									</div>
-                                    
 									<div class="form-group">
 										<label class="col-sm-3 control-label no-padding-right" for="form-field-1"> 内容简介 </label>
 
@@ -688,6 +670,30 @@
 
 								<!-- PAGE CONTENT ENDS -->
 							</div><!-- /.col -->
+
+							<div class="col-xs-3">
+								<div class="form-group">
+									<label class="col-sm-3 control-label no-padding-right" for="form-field-1"> 文章类别 </label>
+
+									<div class="col-sm-9">
+
+										<select name="parentid" id="parentid" class="col-xs-12">
+											<option value="0">未分类</option>
+											<?php if(is_array($catlist)): foreach($catlist as $key=>$vo): ?><option value="<?php echo ($vo["classid"]); ?>" <?php if($vo[classid]==$cat[parentid])echo 'selected'; ?>><?php echo ($vo["classname"]); ?></option><?php endforeach; endif; ?>
+										</select>
+
+									</div>
+								</div>
+
+								<div class="form-group">
+									<label class="col-sm-3 control-label no-padding-right" for="form-field-1"> 标签 </label>
+
+									<div class="tags"><input type="text" name="tags" id="form-field-tags" value="Tag Input Control" placeholder="Enter tags ..." style="display: none; "><input type="text" placeholder="Enter tags ...">
+
+									</div>
+								</div>
+
+							</div>
 						</div><!-- /.row -->
 					</div><!-- /.page-content -->
 				</div><!-- /.main-content -->
